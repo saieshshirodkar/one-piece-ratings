@@ -1,0 +1,5627 @@
+[
+    {
+        "episode": 1,
+        "title": "I'm Luffy! The Man Who Will Become the Pirate King!",
+        "rating": "8.4"
+    },
+    {
+        "episode": 2,
+        "title": "The Great Swordsman Appears! Pirate Hunter, Roronoa Zoro",
+        "rating": "8.4"
+    },
+    {
+        "episode": 3,
+        "title": "Morgan vs. Luffy! Who's This Beautiful Young Girl?",
+        "rating": "8.0"
+    },
+    {
+        "episode": 4,
+        "title": "Luffy's Past! The Red-haired Shanks Appears!",
+        "rating": "8.3"
+    },
+    {
+        "episode": 5,
+        "title": "Fear, Mysterious Power! Pirate Clown Captain Buggy!",
+        "rating": "7.4"
+    },
+    {
+        "episode": 6,
+        "title": "Desperate Situation! Beast Tamer Mohji vs. Luffy!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 7,
+        "title": "Sozetsu Ketto! Kengo Zoro VS Kyokugei no Kabaji!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 8,
+        "title": "Shousha wa docchi? Akuma no mi no nouryoku taiketsu!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 9,
+        "title": "Seigi no usotsuki? Kyaputen Usoppu",
+        "rating": "7.1"
+    },
+    {
+        "episode": 10,
+        "title": "Chijou saikyou no hen na yatsu! Saiminjutsushi Jango",
+        "rating": "7.3"
+    },
+    {
+        "episode": 11,
+        "title": "Inbou o abake! Kaizoku shitsuji Kyaputen Kuro",
+        "rating": "7.3"
+    },
+    {
+        "episode": 12,
+        "title": "Gekitotsu! Kuroneko kaizokudan sakamichi no daikoubou!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 13,
+        "title": "Kyoufu no futarigumi! Nyâban kyoudai vs Zoro",
+        "rating": "7.5"
+    },
+    {
+        "episode": 14,
+        "title": "Rufi fukkatsu! Kaya ojousama no kesshi no taikou",
+        "rating": "7.6"
+    },
+    {
+        "episode": 15,
+        "title": "Kuro o taose! Otoko Usoppu namida no ketsui!",
+        "rating": "7.4"
+    },
+    {
+        "episode": 16,
+        "title": "Kaya o mamore! Usoppu kaizokudan daikatsuyaku!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 17,
+        "title": "Ikari bakuhatsu! Kuro vs Rufi kecchaku no yukue!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 18,
+        "title": "Anta ga chunjuu! Gaimon to kimyou na nakama",
+        "rating": "6.8"
+    },
+    {
+        "episode": 19,
+        "title": "Santouryuu no kako! Zoro to Kuina no chikai!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 20,
+        "title": "Meibutsu kokku! Kaijou resutoran no Sanji",
+        "rating": "7.6"
+    },
+    {
+        "episode": 21,
+        "title": "Manukarezaru kyaku! Sanji no meshi to Gin on",
+        "rating": "7.5"
+    },
+    {
+        "episode": 22,
+        "title": "Saikyou no kaizoku kantai! Teitoku Don Kurîku",
+        "rating": "7.5"
+    },
+    {
+        "episode": 23,
+        "title": "Mamore Baratie! Daikaizoku akaashi no Zefu",
+        "rating": "7.8"
+    },
+    {
+        "episode": 24,
+        "title": "Taka no me no Mihôku! Kenzoku Zoro umi ni chiru",
+        "rating": "9.1"
+    },
+    {
+        "episode": 25,
+        "title": "Hissatsu ashiwaza sakuretsu! Sanji vs Teppeki no Pâru",
+        "rating": "7.5"
+    },
+    {
+        "episode": 26,
+        "title": "Zefu to Sanji no yume Maboroshi no ôru burû",
+        "rating": "8.7"
+    },
+    {
+        "episode": 27,
+        "title": "Reitetsu hijou no kijin Kaizoku kantai soutaichou Gin",
+        "rating": "7.5"
+    },
+    {
+        "episode": 28,
+        "title": "Shinaneeyo! Gekitou Rufi vs Kurîku!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 29,
+        "title": "Shitou no Ketchaku! Hara ni Kukutta Ippon no Yari!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 30,
+        "title": "Tabidachi! Umi no kokku wa Rufi to tomoni",
+        "rating": "8.3"
+    },
+    {
+        "episode": 31,
+        "title": "Higashi no Umi Saiaku no Otoko! Gyojin Kaizoku Arlong!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 32,
+        "title": "Cocoyashi Mura no Majo! Arlong no Onna Kanbu",
+        "rating": "7.7"
+    },
+    {
+        "episode": 33,
+        "title": "Usopp Shisu?! Luffy Jouriku wa Mada?",
+        "rating": "7.8"
+    },
+    {
+        "episode": 34,
+        "title": "Zen'in Shuuketsu! Usopp ga Kataru Nami no Shinjitsu",
+        "rating": "7.4"
+    },
+    {
+        "episode": 35,
+        "title": "Himerareta Kako! Onna Senshi Bell-mere!",
+        "rating": "8.1"
+    },
+    {
+        "episode": 36,
+        "title": "Ikinuke! Haha Bellemere to Nami no Kizuna!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 37,
+        "title": "Luffy Tatsu! Uragirareta Yakusoku no Ketsumatsu!",
+        "rating": "9.3"
+    },
+    {
+        "episode": 38,
+        "title": "Luffy Dai Pinch! Gyojin Tai Luffy Kaizokudan",
+        "rating": "8.2"
+    },
+    {
+        "episode": 39,
+        "title": "Luffy Suibotsu! Zoro vs Tako no Hacchan",
+        "rating": "8.0"
+    },
+    {
+        "episode": 40,
+        "title": "Hokoritakaki Senshi! Gekitou Sanji to Usopp",
+        "rating": "8.0"
+    },
+    {
+        "episode": 41,
+        "title": "Luffy Zenkai! Nami no Ketsui to Mugiwara Boushi",
+        "rating": "8.1"
+    },
+    {
+        "episode": 42,
+        "title": "Sakuretsu! Gyojin Arlong Umi kara no Moukougeki!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 43,
+        "title": "Gyojin Teikoku no Owari! Nami wa Ore no Nakama Da!",
+        "rating": "8.6"
+    },
+    {
+        "episode": 44,
+        "title": "Egao no Tabidachi! Saraba Furusato Cocoyashi Mura",
+        "rating": "7.9"
+    },
+    {
+        "episode": 45,
+        "title": "Joukinkubi! Mugiwara no Luffy Yo ni Shirewataru",
+        "rating": "7.7"
+    },
+    {
+        "episode": 46,
+        "title": "Mugiwara o Oe! Chiisana Buggy no Daibouken",
+        "rating": "6.3"
+    },
+    {
+        "episode": 47,
+        "title": "Omachikane! Aa Fukkatsu no Buggy Senchou!",
+        "rating": "6.1"
+    },
+    {
+        "episode": 48,
+        "title": "Hajimari to Owari no Machi: Loguetown Jouriku",
+        "rating": "7.9"
+    },
+    {
+        "episode": 49,
+        "title": "Sandai Kitetsu to Yubashiri! Zoro no Shintou to Onna Souchou",
+        "rating": "8.0"
+    },
+    {
+        "episode": 50,
+        "title": "Usopp Tai Kozure no Daddy: Mahiru no Kettou",
+        "rating": "7.4"
+    },
+    {
+        "episode": 51,
+        "title": "Honoo no Ryouri Battle? Sanji VS Bijin Chef",
+        "rating": "6.9"
+    },
+    {
+        "episode": 52,
+        "title": "Buggy no Revenge! Shokeidai de Warau Otoko!",
+        "rating": "8.2"
+    },
+    {
+        "episode": 53,
+        "title": "Densetsu wa Hajimatta! Mezase Grand Line",
+        "rating": "8.4"
+    },
+    {
+        "episode": 54,
+        "title": "Aratanaru Bouken no Yokan! Nazo no Shoujo Apis",
+        "rating": "7.0"
+    },
+    {
+        "episode": 55,
+        "title": "Kiseki no Seibutsu! Apis no Himitsu to Densetsu no Shima",
+        "rating": "6.7"
+    },
+    {
+        "episode": 56,
+        "title": "Eric Shutsugeki! Gunkanjima kara no Daidasshutsu!",
+        "rating": "6.6"
+    },
+    {
+        "episode": 57,
+        "title": "Zekkai no Kotou! Densetsu no Lost Island",
+        "rating": "6.5"
+    },
+    {
+        "episode": 58,
+        "title": "Haikyo no Kettou! Kinpaku no Zoro VS Erik!",
+        "rating": "6.6"
+    },
+    {
+        "episode": 59,
+        "title": "Luffy Kanzen Houi! Teitoku Nelson no Hisaku",
+        "rating": "6.9"
+    },
+    {
+        "episode": 60,
+        "title": "Oozora o Mau Mono! Yomigaeru Sennen no Densetsu!",
+        "rating": "7.0"
+    },
+    {
+        "episode": 61,
+        "title": "Ikari no Kecchaku! Red Line o Norikoero!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 62,
+        "title": "Saisho no Toride? Kyodai Kujira Laboon Arawaru",
+        "rating": "7.5"
+    },
+    {
+        "episode": 63,
+        "title": "Otoko no Yakusoku! Luffy to Kujira Saikai no Chikai",
+        "rating": "7.5"
+    },
+    {
+        "episode": 64,
+        "title": "Kaizoku Kangei no Machi? Whiskey Peak Jouriku",
+        "rating": "7.6"
+    },
+    {
+        "episode": 65,
+        "title": "Sakuretsu Santouryuu! Zoro VS Baroque Works!",
+        "rating": "8.1"
+    },
+    {
+        "episode": 66,
+        "title": "Shinken Shoubu! Luffy VS Zoro Nazo no Daikettou!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 67,
+        "title": "Oujo Vivi o Todokero! Luffy Kaizoku Dan Shukkou",
+        "rating": "7.8"
+    },
+    {
+        "episode": 68,
+        "title": "Ganbare Coby! Coby-Meppo Kaigun Funtou Ki",
+        "rating": "6.6"
+    },
+    {
+        "episode": 69,
+        "title": "Coby-Meppo no Ketsui! Garp Chuujou no Oyagokoro",
+        "rating": "6.8"
+    },
+    {
+        "episode": 70,
+        "title": "Taiko no Shima! Little Garden ni Hisomu Kage!",
+        "rating": "7.1"
+    },
+    {
+        "episode": 71,
+        "title": "Dekkai Kettou! Kyojin Dorry to Brogy",
+        "rating": "7.3"
+    },
+    {
+        "episode": 72,
+        "title": "Luffy Ikaru! Seinaru Kettou ni Hiretsu na Wana!",
+        "rating": "7.2"
+    },
+    {
+        "episode": 73,
+        "title": "Brogy Shouri no Goukyuu! Elbaf no Kecchaku",
+        "rating": "7.4"
+    },
+    {
+        "episode": 74,
+        "title": "Ma no Candle! Munen no Namida to Ikari no Namida",
+        "rating": "7.6"
+    },
+    {
+        "episode": 75,
+        "title": "Luffy o Osou Maryoku! Colors Trap",
+        "rating": "7.5"
+    },
+    {
+        "episode": 76,
+        "title": "Iza Hangeki! Usopp no Kiten to Kaenboshi!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 77,
+        "title": "Saraba Kyojin no Shima! Arabasuta o Mezase",
+        "rating": "7.5"
+    },
+    {
+        "episode": 78,
+        "title": "Nami ga Byouki? Umi ni Furu Yuki no Mukou ni!",
+        "rating": "7.2"
+    },
+    {
+        "episode": 79,
+        "title": "Kishuu! Bliking Gou to Blik no Wapol",
+        "rating": "7.5"
+    },
+    {
+        "episode": 80,
+        "title": "Isha no Inai Shima? Na mo Naki Kuni no Bouken!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 81,
+        "title": "Happy kai? Majo to Yobareta Isha!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 82,
+        "title": "Dolton no Kakugo! Wapol Gundan Shima ni Jouriku",
+        "rating": "7.5"
+    },
+    {
+        "episode": 83,
+        "title": "Yuki no Sumu Shima! Drum-Rocky o Nobore!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 84,
+        "title": "Tonakai wa Aoppana! Chopper no Himitsu",
+        "rating": "7.9"
+    },
+    {
+        "episode": 85,
+        "title": "Hamidashi Mono no Yume! Yabuisha Hiluluk!",
+        "rating": "8.4"
+    },
+    {
+        "episode": 86,
+        "title": "Hiluluk no Sakura to Uketsugareyuku Ishi!",
+        "rating": "9.3"
+    },
+    {
+        "episode": 87,
+        "title": "Versus Wapol Gundan! Bakubaku no Mi no Nouryoku!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 88,
+        "title": "Zoan-kei Akuma no Mi! Chopper Nanadan Henkei",
+        "rating": "7.7"
+    },
+    {
+        "episode": 89,
+        "title": "Oukoku no Shihai Owaru Toki! Shinnen no Hata wa Eien ni",
+        "rating": "7.7"
+    },
+    {
+        "episode": 90,
+        "title": "Hiluluk no Sakura! Drum Rocky no Kiseki",
+        "rating": "8.8"
+    },
+    {
+        "episode": 91,
+        "title": "Sayonara Drum-tou! Boku wa Umi e Deru!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 92,
+        "title": "Arabasta no Eiyuu to Senjou no Ballerina",
+        "rating": "7.6"
+    },
+    {
+        "episode": 93,
+        "title": "Iza Sabaku no Kuni e! Ame o Yobu Kona to Hanrangun",
+        "rating": "7.2"
+    },
+    {
+        "episode": 94,
+        "title": "Gouketsu-tachi no Saikai! Yatsu no Na wa Hiken no Ace",
+        "rating": "8.9"
+    },
+    {
+        "episode": 95,
+        "title": "Ace to Luffy! Atsuki Omoi to Kyoudai no Kizuna",
+        "rating": "8.2"
+    },
+    {
+        "episode": 96,
+        "title": "Midori no Machi Erumaru to Kung Fu Jugon!",
+        "rating": "7.3"
+    },
+    {
+        "episode": 97,
+        "title": "Suna no Kuni no Bouken! Ennetsu no Daichi ni Sumu Mamono",
+        "rating": "7.2"
+    },
+    {
+        "episode": 98,
+        "title": "Sabaku no Kaizokudan Toujou! Jiyuu ni Ikiru Otoko-tachi",
+        "rating": "6.9"
+    },
+    {
+        "episode": 99,
+        "title": "Nisemono no Iji! Kokoro no Hanrangun Kamyu!",
+        "rating": "6.9"
+    },
+    {
+        "episode": 100,
+        "title": "Hanrangun Senshi Kouza! Vivi ni Chikatta Yume!",
+        "rating": "7.4"
+    },
+    {
+        "episode": 101,
+        "title": "Kagerou no Kettou! Ace vs Otoko Scorpion",
+        "rating": "6.7"
+    },
+    {
+        "episode": 102,
+        "title": "Iseki to Mayoigo! Vivi to Nakama to Kuni no Katachi",
+        "rating": "7.0"
+    },
+    {
+        "episode": 103,
+        "title": "Spiders Cafe ni 8-ji Teki Kanbu Shuugou",
+        "rating": "7.2"
+    },
+    {
+        "episode": 104,
+        "title": "Luffy Tai Vivi! Nakama ni Kakeru Namida no Chikai",
+        "rating": "7.8"
+    },
+    {
+        "episode": 105,
+        "title": "Alabasta Sensen! Yume no Machi Rainbase",
+        "rating": "7.7"
+    },
+    {
+        "episode": 106,
+        "title": "Zettai Zetsumei no Wana! Rain Dinners Totsunyuu",
+        "rating": "8.1"
+    },
+    {
+        "episode": 107,
+        "title": "Utopia Sakusen Hatsudou! Ugokidashita Uneri",
+        "rating": "8.1"
+    },
+    {
+        "episode": 108,
+        "title": "Kyoufu no Bananawani to Mr. Prince",
+        "rating": "8.2"
+    },
+    {
+        "episode": 109,
+        "title": "Gyakuten Dai Dasshutsu e no Kagi! Doru-Doru Ball!",
+        "rating": "8.4"
+    },
+    {
+        "episode": 110,
+        "title": "Nasake Muyou no Shitou! Luffy vs Crocodile",
+        "rating": "9.1"
+    },
+    {
+        "episode": 111,
+        "title": "Kiseki e no Shissou! Arabasta Doubutsu Land",
+        "rating": "7.8"
+    },
+    {
+        "episode": 112,
+        "title": "Hanrangun Tai Kokuougun! Kessen wa Alubarna!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 113,
+        "title": "Nageki no Alubarna! Gekitou Carue Taichou!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 114,
+        "title": "Nakama no Yume ni Chikau! Kettou Mogurazuka 4-bangai",
+        "rating": "7.8"
+    },
+    {
+        "episode": 115,
+        "title": "Honjitsu Daikoukai! Mane-Mane Montage!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 116,
+        "title": "Nami ni Henshin! Bon Clay Renpatsu Ballet Kenpou",
+        "rating": "7.9"
+    },
+    {
+        "episode": 117,
+        "title": "Nami no Senpuu Chuuihou! Clima Takt Sakuretsu",
+        "rating": "7.8"
+    },
+    {
+        "episode": 118,
+        "title": "Ouke ni Tsutawaru Himitsu! Kodai Heiki Pluton",
+        "rating": "7.7"
+    },
+    {
+        "episode": 119,
+        "title": "Gouken no Gokui! Koutetsu o Kiru Chikara to Mono no Kokyuu",
+        "rating": "9.1"
+    },
+    {
+        "episode": 120,
+        "title": "Tatakai wa Owatta! Kooza ga Kakageta Shiroi Hata",
+        "rating": "7.9"
+    },
+    {
+        "episode": 121,
+        "title": "Vivi no Koe no Yukue! Hero wa Maiorita!",
+        "rating": "8.3"
+    },
+    {
+        "episode": 122,
+        "title": "Suna Wani to Mizu Luffy! Kettou Dai 2 Round",
+        "rating": "8.8"
+    },
+    {
+        "episode": 123,
+        "title": "Wanippoi! Ouke no Haka e Hashire Luffy!",
+        "rating": "8.1"
+    },
+    {
+        "episode": 124,
+        "title": "Akumu no Toki Semaru! Koko wa Sunasunadan Himitsu Kichi",
+        "rating": "8.0"
+    },
+    {
+        "episode": 125,
+        "title": "Idainaru Tsubasa! Waga Na wa Kuni no Shugoshin Pell",
+        "rating": "8.9"
+    },
+    {
+        "episode": 126,
+        "title": "Koeteiku! Arabasta ni Ame ga Furu!",
+        "rating": "9.4"
+    },
+    {
+        "episode": 127,
+        "title": "Buki yo Saraba! Kaizoku to Ikutsuka no Seigi",
+        "rating": "8.1"
+    },
+    {
+        "episode": 128,
+        "title": "Kaizoku-tachi no Utage to Arabasta Dasshutsu Sakusen!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 129,
+        "title": "Hajimari wa Ano Hi! Vivi ga Kataru Boukentan!",
+        "rating": "9.1"
+    },
+    {
+        "episode": 130,
+        "title": "Kiken na Kaori! Shichininme wa Nico Robin!",
+        "rating": "8.6"
+    },
+    {
+        "episode": 131,
+        "title": "Hajimete no Kranke! Rumble Ball Hiwa",
+        "rating": "7.0"
+    },
+    {
+        "episode": 132,
+        "title": "Koukaishi no Hanran! Yuzurenai Yume no Tame ni!",
+        "rating": "6.5"
+    },
+    {
+        "episode": 133,
+        "title": "Uketsugareru Recipe! Curry no Tetsujin Sanji",
+        "rating": "6.7"
+    },
+    {
+        "episode": 134,
+        "title": "Sakasete Misemasu! Otoko Usopp Hasshakudama",
+        "rating": "6.7"
+    },
+    {
+        "episode": 135,
+        "title": "Uwasa no Kaizokugari! Sasurai no Kenshi Zoro",
+        "rating": "6.8"
+    },
+    {
+        "episode": 136,
+        "title": "Yagi no Shima no Zenny to Yama no Naka no Kaizokusen!",
+        "rating": "6.5"
+    },
+    {
+        "episode": 137,
+        "title": "Moukarimakka? Kanekashi Zenny no Yabou!",
+        "rating": "6.6"
+    },
+    {
+        "episode": 138,
+        "title": "Shima no Otakara no Yukue! Zenny Kaizokudan Shutsugeki!",
+        "rating": "6.5"
+    },
+    {
+        "episode": 139,
+        "title": "Niji-iro no Kiri Densetsu! Ruluka Tou no Roujin Henzo",
+        "rating": "6.8"
+    },
+    {
+        "episode": 140,
+        "title": "Eien no Kuni no Juunin! Pumpkin Kaizokudan!",
+        "rating": "6.7"
+    },
+    {
+        "episode": 141,
+        "title": "Furusato e no Omoi! Dasshutsu Funou no Kaizoku Hakaba!",
+        "rating": "6.6"
+    },
+    {
+        "episode": 142,
+        "title": "Ransen Hisshi! Wetton no Yabou to Niji no Tou",
+        "rating": "6.6"
+    },
+    {
+        "episode": 143,
+        "title": "Soshite Densetsu ga Hajimaru! Iza Niji no Kanata e",
+        "rating": "7.3"
+    },
+    {
+        "episode": 144,
+        "title": "Ubawareta Log! Salvage-ou Mashira!",
+        "rating": "7.2"
+    },
+    {
+        "episode": 145,
+        "title": "Kaibutsu Toujou! Shirohige Ichimi ni wa Te o Dasuna",
+        "rating": "7.5"
+    },
+    {
+        "episode": 146,
+        "title": "Yume o Miruna! Azakeri no Machi Mock Town!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 147,
+        "title": "Kaizoku no Takami! Yume o Kataru Otoko to Kaitei Tansaku Ou",
+        "rating": "7.7"
+    },
+    {
+        "episode": 148,
+        "title": "Densetsu no Ichizoku! \"Usotsuki Norland\"",
+        "rating": "7.6"
+    },
+    {
+        "episode": 149,
+        "title": "Kumo Kaji Ippai! Southbird o Oe!",
+        "rating": "7.4"
+    },
+    {
+        "episode": 150,
+        "title": "Yume wa Kanawanai!? Bellamy VS Saruyama Rengou",
+        "rating": "8.1"
+    },
+    {
+        "episode": 151,
+        "title": "Ichioku no Otoko! Sekai Saikou Kenryoku to Kaizoku Kurohige",
+        "rating": "9.3"
+    },
+    {
+        "episode": 152,
+        "title": "Fune wa Sora o Yuku! Knock-Up Stream ni Nore",
+        "rating": "8.2"
+    },
+    {
+        "episode": 153,
+        "title": "Koko wa Sora no Umi! Sora no Kishi to Tengoku no Mon",
+        "rating": "7.7"
+    },
+    {
+        "episode": 154,
+        "title": "Kami no Kuni Skypiea! Kumo no Nagisa no Tenshi-tachi",
+        "rating": "7.4"
+    },
+    {
+        "episode": 155,
+        "title": "Kindan no Seichi! Kami no Sumu Shima to Ten no Sabaki!",
+        "rating": "7.4"
+    },
+    {
+        "episode": 156,
+        "title": "Hayaku mo Hanzaisha!? Skypiea no Hou no Bannin",
+        "rating": "7.5"
+    },
+    {
+        "episode": 157,
+        "title": "Dasshutsu Naru ka!? Ugokihajimeta Kami no Shiren!",
+        "rating": "7.4"
+    },
+    {
+        "episode": 158,
+        "title": "Lovely-doori no Wana! Zennounaru God Enel",
+        "rating": "7.6"
+    },
+    {
+        "episode": 159,
+        "title": "Susume Karasumaru! Ikenie no Saidan o Mezase",
+        "rating": "7.6"
+    },
+    {
+        "episode": 160,
+        "title": "Seizonritsu 10%! Mantra-tsukai no Shinkan Satori!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 161,
+        "title": "\"Tama no Shiren\" no Kyoui! Mayoi no Mori no Shitou",
+        "rating": "7.4"
+    },
+    {
+        "episode": 162,
+        "title": "Chopper Ayaushi! Motokami Tai Shinkan Shura",
+        "rating": "7.7"
+    },
+    {
+        "episode": 163,
+        "title": "Makafushigi! Himo no Shiren to Koi no Shiren!?",
+        "rating": "7.7"
+    },
+    {
+        "episode": 164,
+        "title": "Shandra no Hi o Tomose! Senshi Wiper",
+        "rating": "7.8"
+    },
+    {
+        "episode": 165,
+        "title": "Tenkuu no Ougonkyou Jaya! Mezase Kami no Yashiro!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 166,
+        "title": "Ougon Zen'yasai! \"Vearth\" e no Omoi!",
+        "rating": "7.3"
+    },
+    {
+        "episode": 167,
+        "title": "God Enel Toujou!! Ikinokori e no Aubade",
+        "rating": "7.5"
+    },
+    {
+        "episode": 168,
+        "title": "Kibamuku Uwabami! Tsui ni Hajimaru Survival Game",
+        "rating": "7.4"
+    },
+    {
+        "episode": 169,
+        "title": "Sutemi no Haigeki (Reject)! \"Senki\" Wiper no Kakugo",
+        "rating": "7.8"
+    },
+    {
+        "episode": 170,
+        "title": "Kuuchuu no Gekisen! Kaizoku Zoro VS Senshi Braham",
+        "rating": "7.9"
+    },
+    {
+        "episode": 171,
+        "title": "Unaru Burn Bazooka!! Luffy VS Senki Wiper",
+        "rating": "7.6"
+    },
+    {
+        "episode": 172,
+        "title": "Numa no Shiren! Chopper VS Shinkan Gedatsu!!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 173,
+        "title": "Muteki no Nouryoku! Akasareru Enel no Shoutai",
+        "rating": "7.8"
+    },
+    {
+        "episode": 174,
+        "title": "Maburoshi no Miyako! Yuudai Naru Shandra no Iseki!!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 175,
+        "title": "Seizonritsu 0%!! Chopper VS Shinkan Ohm",
+        "rating": "7.7"
+    },
+    {
+        "episode": 176,
+        "title": "Giant Jack o Nobore!! Jouzou Iseki no Shitou",
+        "rating": "7.9"
+    },
+    {
+        "episode": 177,
+        "title": "Tetsu no Shiren no Shinkoccyou! Shiruibara Death Match!!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 178,
+        "title": "Hotobashiru Zangeki! Zoro VS Shinkan Ohm!!",
+        "rating": "8.3"
+    },
+    {
+        "episode": 179,
+        "title": "Kuzure Yuku Jousou Iseki! Finale e no Quintet!!",
+        "rating": "8.1"
+    },
+    {
+        "episode": 180,
+        "title": "Kodai Iseki no Taiketsu! God Enel no Mokuteki!!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 181,
+        "title": "Fairy Vearth e no Yabou Hakobune Maxim!!",
+        "rating": "8.1"
+    },
+    {
+        "episode": 182,
+        "title": "Tsuini Gekitotsu! Kaizoku Luffy VS God Enel!!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 183,
+        "title": "Maxim Fujou! Ugoki Hajimeta Deathpiea!!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 184,
+        "title": "Luffy Rakka! Kami no Sabaki to Nami no Nozomi!!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 185,
+        "title": "Mezameta Futari! Moeru Koi no Kyuushutsu Zensen",
+        "rating": "8.7"
+    },
+    {
+        "episode": 186,
+        "title": "Zetsubou e no Capriccio Semaei Kuru Sora Shima no Shoumetsu!!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 187,
+        "title": "Kane no Ne no Michibiki! Daisenshi to Tankenka no Monogatari",
+        "rating": "7.7"
+    },
+    {
+        "episode": 188,
+        "title": "Jubaku kara no Kaihou! Daisenshi ga Nagashita Namida!!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 189,
+        "title": "Eien no Shinyuu! Oo-unabari ni Hibikuchikai no Kane!!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 190,
+        "title": "Angel-tou Shoumetsu! Raigou Kourin no Kyoufu!!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 191,
+        "title": "Giant Jack o Taose! Dasshutsu e no Saigo no Nozomi",
+        "rating": "8.1"
+    },
+    {
+        "episode": 192,
+        "title": "Kami no Kune no Kiseki! Tenshi no Todoita Love Song",
+        "rating": "9.2"
+    },
+    {
+        "episode": 193,
+        "title": "Tatakai no Shuuen! Tooku Hibiku Hokori Takaki Fantasia",
+        "rating": "8.0"
+    },
+    {
+        "episode": 194,
+        "title": "Ware Koko ni Itaru! Poneglyphs ga Tsumugu Mono",
+        "rating": "8.0"
+    },
+    {
+        "episode": 195,
+        "title": "Iza Seikai e!! Omoi ga Orinasu Saishuu Gakushou",
+        "rating": "7.7"
+    },
+    {
+        "episode": 196,
+        "title": "Hijoujitai Hatsurei! Akumei Takaki Kaisokusen Sennyuu!",
+        "rating": "7.1"
+    },
+    {
+        "episode": 197,
+        "title": "Ryourinin Sanji! Kaigun Shokudou de Shinka Hakki!",
+        "rating": "7.3"
+    },
+    {
+        "episode": 198,
+        "title": "Torawareru Zoro to Chopper Kinkyuu Shittou",
+        "rating": "7.1"
+    },
+    {
+        "episode": 199,
+        "title": "Semaru Kaigun no Sousa mou! Torawareta Futari Me!",
+        "rating": "7.4"
+    },
+    {
+        "episode": 200,
+        "title": "Kesshi no Luffy to Sanji! Kyuushutsu Dai Sakusen!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 201,
+        "title": "Nekketsu Tokubetsu Butai Sansen! Bridge Koubousen!",
+        "rating": "7.3"
+    },
+    {
+        "episode": 202,
+        "title": "Houi Mou Toppa! Dakkan Going Merry Gou",
+        "rating": "7.3"
+    },
+    {
+        "episode": 203,
+        "title": "Kieta Kaizokusen! Yousai Koubou Dai 2 Round",
+        "rating": "7.0"
+    },
+    {
+        "episode": 204,
+        "title": "Ougon Dakkan Sakusen to Waver Kaishuu Sakusen!",
+        "rating": "7.2"
+    },
+    {
+        "episode": 205,
+        "title": "Ichimoudajin Keikaku! Jonathan Jishin no Hisaku",
+        "rating": "7.2"
+    },
+    {
+        "episode": 206,
+        "title": "Saraba Kaigun Yousai! Dasshutsu e no Saigo no Koubou",
+        "rating": "7.6"
+    },
+    {
+        "episode": 207,
+        "title": "Long Ring Long Land no Dai Bouken!",
+        "rating": "7.2"
+    },
+    {
+        "episode": 208,
+        "title": "Foxy Kaizoku Dan to Davy Back!",
+        "rating": "7.0"
+    },
+    {
+        "episode": 209,
+        "title": "Dai Ikkaisen! Gururi Isshuu Doughnut Race",
+        "rating": "7.1"
+    },
+    {
+        "episode": 210,
+        "title": "Gingitsune no Foxy! Mouretsu Bougai Kousei",
+        "rating": "7.1"
+    },
+    {
+        "episode": 211,
+        "title": "Dai 2 Kaisen! Buchi Kome Groggy Ring",
+        "rating": "7.2"
+    },
+    {
+        "episode": 212,
+        "title": "Red Card Renpatsu! Groggy Ring",
+        "rating": "7.5"
+    },
+    {
+        "episode": 213,
+        "title": "Dai Sankaisen! Guru Guru Roller Race!",
+        "rating": "7.0"
+    },
+    {
+        "episode": 214,
+        "title": "Hakunetsu Bakusou Race! Saishuu Round Totsunyuu!",
+        "rating": "7.3"
+    },
+    {
+        "episode": 215,
+        "title": "Unaru Netsukyuu Goukyuu! Kaizoku Dodgeball!",
+        "rating": "6.7"
+    },
+    {
+        "episode": 216,
+        "title": "Dangai no Kessen! Daruma-san ga Koronda!",
+        "rating": "6.6"
+    },
+    {
+        "episode": 217,
+        "title": "Captain Taiketsu! Saishuusen Combat!",
+        "rating": "6.9"
+    },
+    {
+        "episode": 218,
+        "title": "Zenkai Noro Noro Kougeki VS Fujimi no Luffy",
+        "rating": "7.0"
+    },
+    {
+        "episode": 219,
+        "title": "Souzetsu Nettou Combat! Unmei no Saishuu Kecchaku",
+        "rating": "7.3"
+    },
+    {
+        "episode": 220,
+        "title": "Ushinatta? Ubawareta? Omae wa Dare Da?",
+        "rating": "7.1"
+    },
+    {
+        "episode": 221,
+        "title": "Fue o Idaita Nazo no Shounen to Robin no Suiri!",
+        "rating": "7.0"
+    },
+    {
+        "episode": 222,
+        "title": "Iza Kioku o Dakkan Seyo! Kaizoku Dan Shima ni Jouriku",
+        "rating": "6.7"
+    },
+    {
+        "episode": 223,
+        "title": "Kiba o Muku Zoro! Tachihadakatta Yajuu!",
+        "rating": "7.0"
+    },
+    {
+        "episode": 224,
+        "title": "Honjou o Awarashita Kioku Dorobou no Saigo Gyakushuu",
+        "rating": "6.7"
+    },
+    {
+        "episode": 225,
+        "title": "Hokori takaki otoko! Gin Gitsune no Foxy",
+        "rating": "6.4"
+    },
+    {
+        "episode": 226,
+        "title": "Mottomo Muteki ni Tsuyoi Yatsu? Tomottomo Kiken na Otoko!",
+        "rating": "6.5"
+    },
+    {
+        "episode": 227,
+        "title": "Kaigun Honbu Taishou Aokiji! Saikou Senryoku no Kyoui",
+        "rating": "8.9"
+    },
+    {
+        "episode": 228,
+        "title": "Gomu to Koori no Ikkiuchi! Luffy vs Aokiji",
+        "rating": "8.2"
+    },
+    {
+        "episode": 229,
+        "title": "Shissou Umi Ressha to Mizu no Toshi Water Seven",
+        "rating": "7.6"
+    },
+    {
+        "episode": 230,
+        "title": "Suijou Toshi no Bouken! Mokushise Kyodai Zousen Koujou",
+        "rating": "7.6"
+    },
+    {
+        "episode": 231,
+        "title": "Franky ikka to Iceberg san!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 232,
+        "title": "Garera Company! Soukan Ichiban Dock",
+        "rating": "7.7"
+    },
+    {
+        "episode": 233,
+        "title": "Kaizoku Yuukai Jiken to Shi o Matsu Dake no Kaizokusen",
+        "rating": "7.9"
+    },
+    {
+        "episode": 234,
+        "title": "Nakama Kyuushutsu! Harikomi Franky House",
+        "rating": "9.1"
+    },
+    {
+        "episode": 235,
+        "title": "Gekka no Oogenka! Kanashimi ni Hirugaeru Kaizokuki!",
+        "rating": "9.4"
+    },
+    {
+        "episode": 236,
+        "title": "Luffy VS Usopp! Butsukaru Otoko no Iji",
+        "rating": "9.6"
+    },
+    {
+        "episode": 237,
+        "title": "Genkishin Mizu no Toshi! Nerawareta Iceberg",
+        "rating": "7.7"
+    },
+    {
+        "episode": 238,
+        "title": "Gomu Gomu Ningen VS Ka o Fuku Cyborg",
+        "rating": "8.0"
+    },
+    {
+        "episode": 239,
+        "title": "Hannin wa Mugiwara Kaizukudan? Mizu no Toshi Youjinbou",
+        "rating": "7.8"
+    },
+    {
+        "episode": 240,
+        "title": "Eien no Wakare? Yamo o Hiku Onna Nico Robin",
+        "rating": "8.0"
+    },
+    {
+        "episode": 241,
+        "title": "Robin o Tsukamaero! Mugiwara Ichimi no Ketsui",
+        "rating": "7.6"
+    },
+    {
+        "episode": 242,
+        "title": "Aizu wa Hougeki to Tomoni! Ugokidashita CP9",
+        "rating": "8.1"
+    },
+    {
+        "episode": 243,
+        "title": "Kamen o Totta CP9! Sono Odoroki no Sugao",
+        "rating": "9.1"
+    },
+    {
+        "episode": 244,
+        "title": "Himeta Kizuna! Iceberg to Franky",
+        "rating": "8.9"
+    },
+    {
+        "episode": 245,
+        "title": "Kaete Koi Robin! CP9 to no Taiketsu!",
+        "rating": "8.5"
+    },
+    {
+        "episode": 246,
+        "title": "Mugiwara Kaizoku Dan Zenmetsu? Model Leopard no Kyoui",
+        "rating": "7.9"
+    },
+    {
+        "episode": 247,
+        "title": "Fune kara mo Aisareta Otoko! Usopp no Namida!",
+        "rating": "8.2"
+    },
+    {
+        "episode": 248,
+        "title": "Franky no Kako! Umi ressha ga Hashitta Hi",
+        "rating": "8.1"
+    },
+    {
+        "episode": 249,
+        "title": "Spandum no Inbou! Umi Ressha ga Yureta Hi",
+        "rating": "8.2"
+    },
+    {
+        "episode": 250,
+        "title": "Densetsu no Otoko no Saigo! Umi Ressha ga Naita Hi",
+        "rating": "8.9"
+    },
+    {
+        "episode": 251,
+        "title": "Uragiri no Shinsou! Robin no Kanashiki Ketsui!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 252,
+        "title": "Nakama o Hikihanasu Kiteki! Hashiridasu Umi Ressha",
+        "rating": "7.9"
+    },
+    {
+        "episode": 253,
+        "title": "Sanji Totsunyuu! Arashi no Naka no Umiressha Battle!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 254,
+        "title": "Nami Tamashii no Sakebi! Mugiwara no Luffy Fukkatsu!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 255,
+        "title": "Mou Hitotsu no Umi Ressha! Rocketman Shutsugeki",
+        "rating": "7.9"
+    },
+    {
+        "episode": 256,
+        "title": "Nakama o Sukue! Tekidoushi ga Musunda Chikai no Kizuna!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 257,
+        "title": "Nami o Kudake! Luffy to Zoro no Saikyou Combo",
+        "rating": "8.0"
+    },
+    {
+        "episode": 258,
+        "title": "Nazo no Otoko Toujou!? Sono Na wa Sogeking!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 259,
+        "title": "Kokku Taiketsu! Sanji vs Ramen Kenpou",
+        "rating": "7.3"
+    },
+    {
+        "episode": 260,
+        "title": "Yane no Ue no Kettou! Franky VS Nero",
+        "rating": "7.7"
+    },
+    {
+        "episode": 261,
+        "title": "Gekitotsu! Onigiri Zoro VS Funekiri T-Bone",
+        "rating": "7.9"
+    },
+    {
+        "episode": 262,
+        "title": "Robin Soudatsusen! Sogeking no Kisaku!!",
+        "rating": "8.3"
+    },
+    {
+        "episode": 263,
+        "title": "Shihou no shima! Enies Lobby!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 264,
+        "title": "Jouriku Sakusen Shidou! Mugiwara Ichimi Totsunyuu Seyo!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 265,
+        "title": "Luffy Kaishingeki! Shihou no Shima de Daikessen!!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 266,
+        "title": "Kyojinzoku to no Koubou! Daini no Tobira o Akero!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 267,
+        "title": "Katsuro o Hirake! Sora o Tobu Rocketman!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 268,
+        "title": "Luffy ni Oitsuke! Mugiwara Ichimi Souryokusen",
+        "rating": "7.9"
+    },
+    {
+        "episode": 269,
+        "title": "Uragirareta Robin! Sekai Seifu no Omowaku!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 270,
+        "title": "Robin o Kaese! Luffy VS Blueno!",
+        "rating": "8.6"
+    },
+    {
+        "episode": 271,
+        "title": "Tachidomaru na! Hangeki no Noroshi o Agero!",
+        "rating": "8.1"
+    },
+    {
+        "episode": 272,
+        "title": "Luffy Mokuzen! Saibanshomae Hiroba e Shuuketsu se yo",
+        "rating": "8.4"
+    },
+    {
+        "episode": 273,
+        "title": "Subete wa Nakama wo Mamoru Tame ni! Gear Second Hatsudou",
+        "rating": "9.2"
+    },
+    {
+        "episode": 274,
+        "title": "Kotaero Robin! Mugiwara Ichimi no Sakebi!!",
+        "rating": "9.4"
+    },
+    {
+        "episode": 275,
+        "title": "Robin no Kako! Akuma to Yoba re ta Shoujo!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 276,
+        "title": "Shukumei no Oyako! Sono Haha no Na wa Olvia!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 277,
+        "title": "Ohara no Higeki! Buster Call no Kyoufu",
+        "rating": "9.4"
+    },
+    {
+        "episode": 278,
+        "title": "Ikitai to Ie! Oretachi wa Nakama Da!!",
+        "rating": "9.6"
+    },
+    {
+        "episode": 279,
+        "title": "Taki ni Mukatte Tobe!! Luffy no Omoi!!",
+        "rating": "6.2"
+    },
+    {
+        "episode": 280,
+        "title": "Otoko no Ikizama! Zoro no Waza, Usopp no Yume",
+        "rating": "5.9"
+    },
+    {
+        "episode": 281,
+        "title": "Namida ga Tsumuida Nakama no Kizuna! Nami no Sekai Chizu",
+        "rating": "6.1"
+    },
+    {
+        "episode": 282,
+        "title": "Wakare ga Otoko o Migaku! Sanji to Chopper",
+        "rating": "5.9"
+    },
+    {
+        "episode": 283,
+        "title": "Subete wa Nakama no Tame ni! Yami no Naka no Robin!",
+        "rating": "5.8"
+    },
+    {
+        "episode": 284,
+        "title": "Sekkeizu wa Watasanai! Franky no Ketsudan",
+        "rating": "8.0"
+    },
+    {
+        "episode": 285,
+        "title": "Itsutsu no Kagi o Ubae! Mugiwara Ichimi Tai CP9",
+        "rating": "7.8"
+    },
+    {
+        "episode": 286,
+        "title": "Akuma no Mi no Chikara! Kaku to Jabra Daihenshin",
+        "rating": "7.9"
+    },
+    {
+        "episode": 287,
+        "title": "Shinde mo Keran! Sanji Otoko no Kishidou!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 288,
+        "title": "Fukurou no Gosan! Ore no Cola wa Inochi no Mizu!",
+        "rating": "8.1"
+    },
+    {
+        "episode": 289,
+        "title": "Zoro Shinwaza Sakuretsu! Katana no Na wa Sogeking?",
+        "rating": "8.0"
+    },
+    {
+        "episode": 290,
+        "title": "Seigyo Funou! Chopper Kindan no Rumble",
+        "rating": "8.6"
+    },
+    {
+        "episode": 291,
+        "title": "Luffy Oyabun Futatabi! Yume ka Utsutsu ka Tomikuji Soudou",
+        "rating": "5.9"
+    },
+    {
+        "episode": 292,
+        "title": "Oshiro de Mochimaki Dai Race! Akai Hana no Inbou",
+        "rating": "5.6"
+    },
+    {
+        "episode": 293,
+        "title": "Awa Tsukai Kalifa! Nami ni Semaru Sekken no Wana",
+        "rating": "7.9"
+    },
+    {
+        "episode": 294,
+        "title": "Hibikiwataru Kyouhou! Hatsudou Buster Call",
+        "rating": "8.0"
+    },
+    {
+        "episode": 295,
+        "title": "Gonin no Nami? Hangeki wa Shinkirou to Tomo ni!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 296,
+        "title": "Nami no Ketsudan! Bousou Chopper o Ute!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 297,
+        "title": "Kariudo Sanji Toujou? Usotsuki Ookami ni Okuru Banka",
+        "rating": "8.1"
+    },
+    {
+        "episode": 298,
+        "title": "Shakunetsu no Keri! Sanji Ashiwaza no Full Course",
+        "rating": "8.6"
+    },
+    {
+        "episode": 299,
+        "title": "Hakujin no Moushuu! Zoro Tai Kaku Kyouryoku Zangeki Taiketsu",
+        "rating": "8.2"
+    },
+    {
+        "episode": 300,
+        "title": "Kishin Zoro! Kihaku ga Miseta Asura no Keshin",
+        "rating": "9.2"
+    },
+    {
+        "episode": 301,
+        "title": "Spandam Kyougaku! Shihou no Tou ni Tatsu Eiyuu",
+        "rating": "9.2"
+    },
+    {
+        "episode": 302,
+        "title": "Robin Kaihou! Luffy Tai Lucci Choujou Kessen",
+        "rating": "8.2"
+    },
+    {
+        "episode": 303,
+        "title": "Hannin wa Luffy Oyabun? Kieta Oozakura o Oe",
+        "rating": "5.8"
+    },
+    {
+        "episode": 304,
+        "title": "Katenakya Daremo Mamorenai! Gear Third Shidou",
+        "rating": "9.0"
+    },
+    {
+        "episode": 305,
+        "title": "Senritsu no Kako! Yami no Seigi to Rob Lucci",
+        "rating": "8.9"
+    },
+    {
+        "episode": 306,
+        "title": "Maboroshi no Ningyo Arawaru? Usureyuku Ishiki no Naka de",
+        "rating": "8.0"
+    },
+    {
+        "episode": 307,
+        "title": "Houka ni Shizumu Shima! Franky Munen no Sakebi",
+        "rating": "8.2"
+    },
+    {
+        "episode": 308,
+        "title": "Luffy o Mate! Tamerai no Hashi no Shitou!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 309,
+        "title": "Kobushi ni Kometa Omoi! Luffy Konshin no Gatling",
+        "rating": "9.6"
+    },
+    {
+        "episode": 310,
+        "title": "Tomo, Umi yori Kitaru! Mugiwara Ichimi Saikyou no Kizuna",
+        "rating": "9.2"
+    },
+    {
+        "episode": 311,
+        "title": "Zen'in Dai Dasshutsu! Shousha no Michi wa Kaizoku no Tame ni",
+        "rating": "9.0"
+    },
+    {
+        "episode": 312,
+        "title": "Arigatou Merry! Yuki ni Kemuru Wakare no Umi",
+        "rating": "9.6"
+    },
+    {
+        "episode": 313,
+        "title": "Yaburareta Ansoku! Ai no Kobushi o Motsu Kaigun Chuujou",
+        "rating": "8.7"
+    },
+    {
+        "episode": 314,
+        "title": "Saikyou no Kakei? Akasareta Luffy no Chichi!",
+        "rating": "9.1"
+    },
+    {
+        "episode": 315,
+        "title": "Sono Na wa Shinsekai! Grand Line no Yukue",
+        "rating": "8.3"
+    },
+    {
+        "episode": 316,
+        "title": "Shanks Ugoku! Bousou Suru Jidai e no Kusabi",
+        "rating": "9.1"
+    },
+    {
+        "episode": 317,
+        "title": "Yagara o Sagasu Shoujo! Mizu no Miyako Daisousasen",
+        "rating": "6.3"
+    },
+    {
+        "episode": 318,
+        "title": "Haha wa Tsuyoshi! Zoro no Dotabata Kaji Tetsudai",
+        "rating": "6.2"
+    },
+    {
+        "episode": 319,
+        "title": "Sanji Shougeki! Nazo no Jii-san to Gekiuma Ryouri",
+        "rating": "6.7"
+    },
+    {
+        "episode": 320,
+        "title": "Tsui ni Zen'in Shoukin Kubi! 6-okugoe no Ichimi!",
+        "rating": "8.1"
+    },
+    {
+        "episode": 321,
+        "title": "Umi o Nozomu Hyakujuu no Ou! Yume no Fune Doudou Kansei!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 322,
+        "title": "Saraba Itoshiki Kobun-tachi! Franky Tatsu",
+        "rating": "8.0"
+    },
+    {
+        "episode": 323,
+        "title": "Shukkou Mizu no Miyako! Otoko Usopp Kettou no Kejime",
+        "rating": "8.4"
+    },
+    {
+        "episode": 324,
+        "title": "Meguru Tehaisho! Kokyou wa Odoru Fune wa Susumu!",
+        "rating": "8.1"
+    },
+    {
+        "episode": 325,
+        "title": "Saikyou no Nouryoku! Ace o Osou Kurohige no Yami",
+        "rating": "9.2"
+    },
+    {
+        "episode": 326,
+        "title": "Nazo no Kaizoku Goikkou! Sunny-gou to Kiken na Wana",
+        "rating": "6.7"
+    },
+    {
+        "episode": 327,
+        "title": "Sunny-gou Pinch! Unare Chousoku no Himitsu Mecha",
+        "rating": "6.3"
+    },
+    {
+        "episode": 328,
+        "title": "Shinsekai ni Shizumu Yume! Shitsui no Kaizoku Puzzle",
+        "rating": "6.4"
+    },
+    {
+        "episode": 329,
+        "title": "Osoikuru Shikaku-tachi! Hyoujou Dai Battle Kaishi",
+        "rating": "6.5"
+    },
+    {
+        "episode": 330,
+        "title": "Dai Kusen Mugiwara Ichimi! Hata ni Kakeru Kaizoku Tamashii",
+        "rating": "6.3"
+    },
+    {
+        "episode": 331,
+        "title": "Atsukurushisa Zenkai! Semaru Futago no Jiryoku Power",
+        "rating": "6.5"
+    },
+    {
+        "episode": 332,
+        "title": "Dai Konran no Yakata! Ikaru Don to Toraware no Ichimi",
+        "rating": "6.5"
+    },
+    {
+        "episode": 333,
+        "title": "Fushichou Futatabi! Tomo ni Chikau Kaizokuki no Yume",
+        "rating": "6.3"
+    },
+    {
+        "episode": 334,
+        "title": "Atsu Atsu Choukessen! Luffy VS Shakunetsu no Don",
+        "rating": "6.6"
+    },
+    {
+        "episode": 335,
+        "title": "Shin Sekai de Matsu! Isamashiki Kaizoku to no Wakare",
+        "rating": "6.6"
+    },
+    {
+        "episode": 336,
+        "title": "Shutsudou Chopperman! Mamore Nagisa no TV-kyoku",
+        "rating": "5.2"
+    },
+    {
+        "episode": 337,
+        "title": "Ma no Umi Totsunyuu! Kiri ni Ukabu Nazo no Gaikotsu",
+        "rating": "8.2"
+    },
+    {
+        "episode": 338,
+        "title": "Hito ni Aeta Yorokobi! Gaikotsu Shinshi no Shoutai",
+        "rating": "8.1"
+    },
+    {
+        "episode": 339,
+        "title": "Kai Genshou Zokuzoku! Thriller Bark Jouriku",
+        "rating": "7.5"
+    },
+    {
+        "episode": 340,
+        "title": "Tensai to Yobareta Otoko! Hogback Arawaru!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 341,
+        "title": "Nami Dai Pinch! Zombie Yashiki to Toumei Ningen",
+        "rating": "7.7"
+    },
+    {
+        "episode": 342,
+        "title": "Zombie no Nazo! Akumu no Hogback Kenkyuujo",
+        "rating": "7.5"
+    },
+    {
+        "episode": 343,
+        "title": "Sono Na wa Moriah! Kage o Nigiru Dai Kaizoku no Wana",
+        "rating": "7.6"
+    },
+    {
+        "episode": 344,
+        "title": "Zombie Song no Kyouen! Youchi no Kane wa Yami no Oto",
+        "rating": "7.5"
+    },
+    {
+        "episode": 345,
+        "title": "Doubutsu Ippai? Perona no Wonder Garden",
+        "rating": "7.0"
+    },
+    {
+        "episode": 346,
+        "title": "Kieru Mugiwara Ichimi! Arawareta Nazo no Kenshi!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 347,
+        "title": "Nokoru Kishidou! Nami o Mamoru Uragiri Zombie",
+        "rating": "7.4"
+    },
+    {
+        "episode": 348,
+        "title": "Sora kara Sanjou! Kenkyou Hanauta wa Ano Otoko!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 349,
+        "title": "Luffy Kinkyuujitai! Saikyou no Kage no Ikisaki",
+        "rating": "7.8"
+    },
+    {
+        "episode": 350,
+        "title": "Majin to Yobareta Senshi!! Oz Fukkatsu no Toki",
+        "rating": "7.7"
+    },
+    {
+        "episode": 351,
+        "title": "500-nenburi no Mezame!! Oars Kaigan!!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 352,
+        "title": "Shinnen no Inochigoi!! Afro o Mamoru Brook",
+        "rating": "7.6"
+    },
+    {
+        "episode": 353,
+        "title": "Otoko no Chikai wa Shinazu!! Tooi Sora de Matsu Tomo e",
+        "rating": "8.2"
+    },
+    {
+        "episode": 354,
+        "title": "Kanarazu Ai ni Iku!! Brook to Yakusoku no Misaki",
+        "rating": "7.2"
+    },
+    {
+        "episode": 355,
+        "title": "Meshi to Nami to Kage!! Luffy Ikari no Daihangeki",
+        "rating": "7.7"
+    },
+    {
+        "episode": 356,
+        "title": "Usopp Saikyou? Negative wa Makasetoke",
+        "rating": "7.6"
+    },
+    {
+        "episode": 357,
+        "title": "General Zombie Shunsatsu!! Oars wa Bouken Kibun!!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 358,
+        "title": "Honoo no Knight Sanji!! Keritsubuse Itsuwari no Kyoshiki",
+        "rating": "7.6"
+    },
+    {
+        "episode": 359,
+        "title": "Suke Suke no Innen? Ubawareta Sanji no Yume",
+        "rating": "7.5"
+    },
+    {
+        "episode": 360,
+        "title": "Tasukete Hero!? Teki wa Fujimi no Princess",
+        "rating": "7.7"
+    },
+    {
+        "episode": 361,
+        "title": "Perona Kyoufu!? Uso no U wa Usopp no U",
+        "rating": "7.8"
+    },
+    {
+        "episode": 362,
+        "title": "Yane ni Mau Zangeki!! Kecchaku Zoro Tai Ryuuma",
+        "rating": "8.1"
+    },
+    {
+        "episode": 363,
+        "title": "Chopper Gekido!! Hogback Ma no Ijutsu",
+        "rating": "7.6"
+    },
+    {
+        "episode": 364,
+        "title": "Oz Hoeru!! Detekoi Mugiwara no Ichimi",
+        "rating": "7.2"
+    },
+    {
+        "episode": 365,
+        "title": "Teki wa Luffy!! Saikyou Zombie Tai Mugiwara no Ichimi",
+        "rating": "7.5"
+    },
+    {
+        "episode": 366,
+        "title": "Taorero Absalom!! Nami Yuujou no Raigeki!!",
+        "rating": "7.4"
+    },
+    {
+        "episode": 367,
+        "title": "Ubae Down!! Hissatsu Mugiwara Docking?",
+        "rating": "8.0"
+    },
+    {
+        "episode": 368,
+        "title": "Ashioto Naki Shuurai!! Nazo no Boumonsha: Boukun Kuma",
+        "rating": "7.9"
+    },
+    {
+        "episode": 369,
+        "title": "Oars Plus Moriah: Chikara to Zunou no Saikyou Gattai",
+        "rating": "8.1"
+    },
+    {
+        "episode": 370,
+        "title": "Gyakuten e no Hisaku: Nightmare Luffy Kenzan",
+        "rating": "7.9"
+    },
+    {
+        "episode": 371,
+        "title": "Kaimetsu, Mugiwara Ichimi: Kagekage no Chikara Zenkai",
+        "rating": "8.1"
+    },
+    {
+        "episode": 372,
+        "title": "Chouzetsu Battle Start! Luffy vs Luffy",
+        "rating": "8.9"
+    },
+    {
+        "episode": 373,
+        "title": "Kecchaku Semaru! Tatakikome, Todome no Ichigeki",
+        "rating": "8.9"
+    },
+    {
+        "episode": 374,
+        "title": "Karada ga Kieru! Akumu no Shima ni Sasu Asahi!",
+        "rating": "8.5"
+    },
+    {
+        "episode": 375,
+        "title": "Owaranai Kiki! Mugiwara Ichimi Massatsu Shirei",
+        "rating": "8.2"
+    },
+    {
+        "episode": 376,
+        "title": "Subete o Hajiku: Kuma no Nikyunikyu no Chikara",
+        "rating": "9.1"
+    },
+    {
+        "episode": 377,
+        "title": "Nakama no Itami wa Waga Itami: Zoro Kesshi no Tatakai",
+        "rating": "9.7"
+    },
+    {
+        "episode": 378,
+        "title": "Tooi Hi no Yakusoku: Kaizoku no Uta to Chiisana Kujira",
+        "rating": "8.2"
+    },
+    {
+        "episode": 379,
+        "title": "Brook no Kako: Youki na Nakama Kanashiki Wakare",
+        "rating": "8.1"
+    },
+    {
+        "episode": 380,
+        "title": "Binks no Sake: Kako to Genzai o Tsunagu Uta",
+        "rating": "9.3"
+    },
+    {
+        "episode": 381,
+        "title": "Arata na Nakama! Ongakuka Hanauta no Brook",
+        "rating": "8.2"
+    },
+    {
+        "episode": 382,
+        "title": "Noronoro no Kyoui: Gingitsune no Foxy Futatabi",
+        "rating": "6.3"
+    },
+    {
+        "episode": 383,
+        "title": "Otakara Daisoudatsusen! Houkai! Spa Island Gou",
+        "rating": "6.4"
+    },
+    {
+        "episode": 384,
+        "title": "Burukku daifuntou shin no nakama e no michisagashi?",
+        "rating": "7.3"
+    },
+    {
+        "episode": 385,
+        "title": "Idainaru kouro hanshuu toutatsu! Akai tuchi no tairiku",
+        "rating": "7.5"
+    },
+    {
+        "episode": 386,
+        "title": "Mugiwara ichimi nikushi Tetsukamen no Dubaru toujou",
+        "rating": "7.5"
+    },
+    {
+        "episode": 387,
+        "title": "Innen no saikai! Toraware no gyonin o sukudase",
+        "rating": "7.3"
+    },
+    {
+        "episode": 388,
+        "title": "Higeki! Kamen ni kakusareta Dubaru no shinjitsu",
+        "rating": "7.6"
+    },
+    {
+        "episode": 389,
+        "title": "Sakuretsu! Sanîgou no chouhimitsu heiki gaonhou",
+        "rating": "7.7"
+    },
+    {
+        "episode": 390,
+        "title": "Gyojin-tou o Mezashite Jouriku: Sabaody Shotou",
+        "rating": "7.6"
+    },
+    {
+        "episode": 391,
+        "title": "Bougyaku! Sabaody no Shihaisha Tenryuubito",
+        "rating": "8.0"
+    },
+    {
+        "episode": 392,
+        "title": "Arata na Rival Shuuketsu! 11-nin no Choushinsei",
+        "rating": "8.3"
+    },
+    {
+        "episode": 393,
+        "title": "Hyouteki wa Camie!! Semaru Hitosaraiya no Mashu",
+        "rating": "8.1"
+    },
+    {
+        "episode": 394,
+        "title": "Camie o Sukue: Shotou ni Nokoru Ankoku no Rekishi",
+        "rating": "8.1"
+    },
+    {
+        "episode": 395,
+        "title": "Time Limit: Human Auction Kaimaku",
+        "rating": "8.3"
+    },
+    {
+        "episode": 396,
+        "title": "Tekken Sakuretsu! Auction o Buttsubuse",
+        "rating": "9.6"
+    },
+    {
+        "episode": 397,
+        "title": "Dai Panic! Auction Kaijou no Shitou",
+        "rating": "9.3"
+    },
+    {
+        "episode": 398,
+        "title": "Taishou Kizaru Ugoku! Souzen Sabaody Shotou",
+        "rating": "9.0"
+    },
+    {
+        "episode": 399,
+        "title": "Houimou o Toppa Seyo! Kaigun Tai Sannin no Senchou",
+        "rating": "9.0"
+    },
+    {
+        "episode": 400,
+        "title": "Roger to Rayleigh: Kaizoku Ou to Sono Migiude",
+        "rating": "9.4"
+    },
+    {
+        "episode": 401,
+        "title": "Kaihi Fukanou!? Taishou Kizaru no Kousoku no Keri",
+        "rating": "9.0"
+    },
+    {
+        "episode": 402,
+        "title": "Attouteki! Kaigun no Sentou Heiki Pacifista",
+        "rating": "9.1"
+    },
+    {
+        "episode": 403,
+        "title": "Saranaru Kyouteki Arawaru! Masakari Katsuida Sentoumaru",
+        "rating": "9.1"
+    },
+    {
+        "episode": 404,
+        "title": "Taishou Kizuru no Moukou Mugiwara Ichimi Zettaizetsumei!",
+        "rating": "9.5"
+    },
+    {
+        "episode": 405,
+        "title": "Kesareta Nakama-tachi: Mugiwara Ichimi Saigo no Hi",
+        "rating": "9.7"
+    },
+    {
+        "episode": 406,
+        "title": "Jidaigeki Tokubetsu Hen: Luffy Oyabun Futatabi Kenzan",
+        "rating": "5.6"
+    },
+    {
+        "episode": 407,
+        "title": "Jidaigeki Tokubetsu Hen: Yabure! Thriller Shoukai no Wana",
+        "rating": "5.6"
+    },
+    {
+        "episode": 408,
+        "title": "Jouriku! Danshi Kinsei no Shima Amazon Lily",
+        "rating": "7.6"
+    },
+    {
+        "episode": 409,
+        "title": "Isoge! Nakama-tachi no Moto e: Nyougashima no Bouken",
+        "rating": "7.7"
+    },
+    {
+        "episode": 410,
+        "title": "Minna Meromero! Kaizoku Jotei Hancock",
+        "rating": "7.7"
+    },
+    {
+        "episode": 411,
+        "title": "Senaka ni Kakusareta Himitsu: Souguu Luffy to Hebihime",
+        "rating": "7.8"
+    },
+    {
+        "episode": 412,
+        "title": "Hijou no Sabaki! Ishi ni Sareta Margaret!!",
+        "rating": "8.3"
+    },
+    {
+        "episode": 413,
+        "title": "Luffy Daikusen! Hebi Shimai no Haki no Chikara!!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 414,
+        "title": "Nouryoku Zenkai Battle!! Gomugomu Tai Hebihebi",
+        "rating": "8.6"
+    },
+    {
+        "episode": 415,
+        "title": "Hancock no Kokuhaku: Shimai no Imawashiki Kako",
+        "rating": "8.9"
+    },
+    {
+        "episode": 416,
+        "title": "Ace o Sukue! Arata na Mokutekichi wa Daikangoku",
+        "rating": "8.5"
+    },
+    {
+        "episode": 417,
+        "title": "Koi wa Hurricane! Meromero Hancock",
+        "rating": "8.5"
+    },
+    {
+        "episode": 418,
+        "title": "Nakama-tachi no Yukue: Tenkou no Kagaku to Karakurijima",
+        "rating": "7.4"
+    },
+    {
+        "episode": 419,
+        "title": "Nakama-tachi no Yukue: Kyochou no Shima to Momoiro no Rakuen!",
+        "rating": "7.0"
+    },
+    {
+        "episode": 420,
+        "title": "Nakama-tachi no Yukue: Shima o Tsunagu Hashi to Shokujin Shokubutsu",
+        "rating": "7.4"
+    },
+    {
+        "episode": 421,
+        "title": "Nakama-tachi no Yukue: Negative Princess to Akuma Ou",
+        "rating": "7.6"
+    },
+    {
+        "episode": 422,
+        "title": "Kesshi no Sennyuu! Kaitei Kangoku Impel Down Sennyuu!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 423,
+        "title": "Jigoku de Saikai!? Bara Bara no Mi no Jitsuryokusha!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 424,
+        "title": "Yabure! Guren Jigoku: Buggy no Dohade Daisakusen",
+        "rating": "7.8"
+    },
+    {
+        "episode": 425,
+        "title": "Kangoku Saikyou no Otoko! Doku Ningen Magellan Toujou",
+        "rating": "7.8"
+    },
+    {
+        "episode": 426,
+        "title": "Eiga Rendou Special: Ugokidasu Kinjishi no Yabou",
+        "rating": "6.5"
+    },
+    {
+        "episode": 427,
+        "title": "Eiga Rendou Special: Nerawareta Little East Blue",
+        "rating": "6.2"
+    },
+    {
+        "episode": 428,
+        "title": "Eiga Rendou Special: Amigo Kaizokudan no Moukou",
+        "rating": "6.2"
+    },
+    {
+        "episode": 429,
+        "title": "Eiga Rendou Special: Kessen! Luffy Tai Largo",
+        "rating": "6.2"
+    },
+    {
+        "episode": 430,
+        "title": "Toraware no Ouka Shichibukai! Kaikyou no Jinbee",
+        "rating": "7.8"
+    },
+    {
+        "episode": 431,
+        "title": "Roubanchou Saldeath no Wana: Level 3 Kiga Jigoku",
+        "rating": "7.6"
+    },
+    {
+        "episode": 432,
+        "title": "Tokihanatareta Swan! Saikai! Bon Clay",
+        "rating": "7.9"
+    },
+    {
+        "episode": 433,
+        "title": "Shochou Magellan Ugoku: Kansei! Mugiwara Houimou",
+        "rating": "8.0"
+    },
+    {
+        "episode": 434,
+        "title": "Zensenryoku Shuuketsu! Level 4 Shounetsu Jigoku no Kessen",
+        "rating": "7.6"
+    },
+    {
+        "episode": 435,
+        "title": "Magellan Tsuyoshi! Bon Clay Tekizen Toubou",
+        "rating": "8.1"
+    },
+    {
+        "episode": 436,
+        "title": "Shiyuu Kessu! Sutemi no Luffy Saigo no Ichigeki",
+        "rating": "8.3"
+    },
+    {
+        "episode": 437,
+        "title": "Dachi Dakara: Bon Clay Kesshi no Kyuushutsukou",
+        "rating": "8.0"
+    },
+    {
+        "episode": 438,
+        "title": "Jigoku ni Rakuen! Impel Down Level 5.5",
+        "rating": "7.5"
+    },
+    {
+        "episode": 439,
+        "title": "Luffy Chiryou Kaishi: Ivan-san Kiseki no Chikara!!",
+        "rating": "7.3"
+    },
+    {
+        "episode": 440,
+        "title": "Kiseki o Shinjite! Bon Clay Tamashii no Seien",
+        "rating": "7.7"
+    },
+    {
+        "episode": 441,
+        "title": "Luffy Fukkatsu! Iwa-san Datsugoku Keikaku Shidou!!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 442,
+        "title": "Ace Gosou Kaishi: Saikasou Level 6 no Koubou!",
+        "rating": "8.1"
+    },
+    {
+        "episode": 443,
+        "title": "Saikyou Team Kessei: Shinkan! Inpel Down",
+        "rating": "8.1"
+    },
+    {
+        "episode": 444,
+        "title": "Saranaru Konran! Kurohige Teach Shuurai!",
+        "rating": "8.2"
+    },
+    {
+        "episode": 445,
+        "title": "Kiken na Deai! Kurohige to Ame no Shiryuu",
+        "rating": "7.7"
+    },
+    {
+        "episode": 446,
+        "title": "Iji demo Taorenu! Honki no Hannyabaru",
+        "rating": "8.3"
+    },
+    {
+        "episode": 447,
+        "title": "Ikari no Jet Pistol: Luffy vs Kurohige",
+        "rating": "9.0"
+    },
+    {
+        "episode": 448,
+        "title": "Magellan o Tomero! Iva-san Ougi Sakuretsu",
+        "rating": "7.9"
+    },
+    {
+        "episode": 449,
+        "title": "Magellan no Kisaku! Habamareta Datsugoku Keikaku",
+        "rating": "8.1"
+    },
+    {
+        "episode": 450,
+        "title": "Datsugoku Team Zettaizetsumei: Kinjite \"Venom Demon\"",
+        "rating": "8.9"
+    },
+    {
+        "episode": 451,
+        "title": "Okose Saigo no Kiseki: Seigi no Mon o Toppa Seyo",
+        "rating": "9.3"
+    },
+    {
+        "episode": 452,
+        "title": "Mezase Kaigun Honbu: Ace Kyuushutsu e no Funade!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 453,
+        "title": "Nakama-tachi no Yukue: Weatheria Report to Cyborg Animal",
+        "rating": "7.0"
+    },
+    {
+        "episode": 454,
+        "title": "Nakama-tachi no Yukue: Kyochou no Hina to Momoiro no Taiketsu",
+        "rating": "6.2"
+    },
+    {
+        "episode": 455,
+        "title": "Nakama-tachi no Yukue: Kakumeigun to Boushoku no Mori no Wana!",
+        "rating": "7.0"
+    },
+    {
+        "episode": 456,
+        "title": "Nakama-tachi no Yukue: Kyodai na Bohyou to Pantsu no On",
+        "rating": "7.1"
+    },
+    {
+        "episode": 457,
+        "title": "Marineford Chokuzen Kaisou Special: Kyoudai no Chikai!",
+        "rating": "6.7"
+    },
+    {
+        "episode": 458,
+        "title": "Marineford Chokuzen Kaisou Special: Shuuketsu! San Taishou",
+        "rating": "6.7"
+    },
+    {
+        "episode": 459,
+        "title": "Kessen no Toki Semaru! Kaigun Saikyou no Fujin Kansei!",
+        "rating": "9.1"
+    },
+    {
+        "episode": 460,
+        "title": "Kyodai Kantai Arawaru: Shuurai! Shirohige Kaizokudan",
+        "rating": "9.2"
+    },
+    {
+        "episode": 461,
+        "title": "Kessen no Makuake! Ace to Shirohige no Kako",
+        "rating": "9.3"
+    },
+    {
+        "episode": 462,
+        "title": "Sekai o Horobosu Chikara! Guragura no Mi no Nouryoku",
+        "rating": "9.1"
+    },
+    {
+        "episode": 463,
+        "title": "Subete o Yakitsukusu!! Taishou Akainu no Chikara!",
+        "rating": "9.2"
+    },
+    {
+        "episode": 464,
+        "title": "Majin no Shison! Little Oars Jr. Bakushin!",
+        "rating": "9.2"
+    },
+    {
+        "episode": 465,
+        "title": "Shousha dake ga Seigi Hatsudou! Sengoku no Sakusen!",
+        "rating": "9.3"
+    },
+    {
+        "episode": 466,
+        "title": "Mugiwara Team Touchaku Fuunkyuu o Tsugeru Senjou",
+        "rating": "9.4"
+    },
+    {
+        "episode": 467,
+        "title": "Shinde mo Tasukeru: Luffy vs Kaigun Battle Start",
+        "rating": "9.3"
+    },
+    {
+        "episode": 468,
+        "title": "Gekisen no Renzoku! Nouryokusha Gundan VS Nouryokusha Gundan",
+        "rating": "9.2"
+    },
+    {
+        "episode": 469,
+        "title": "Kuma ni Okita Ihen Iva-san Ikari no Ichigeki",
+        "rating": "9.0"
+    },
+    {
+        "episode": 470,
+        "title": "Kengou Mihawk Luffy ni Semaru Kokutou no Zangeki",
+        "rating": "9.2"
+    },
+    {
+        "episode": 471,
+        "title": "Senmetsu Sakusen Shidou: Pacifista Gundan no Iryoku",
+        "rating": "9.1"
+    },
+    {
+        "episode": 472,
+        "title": "Akainu no Bouryaku! Otoshiirerareta Shirohige",
+        "rating": "9.3"
+    },
+    {
+        "episode": 473,
+        "title": "Houiheki Sadou! Shirohige Kaizokudan Zettaizetsumei!!",
+        "rating": "9.2"
+    },
+    {
+        "episode": 474,
+        "title": "Shokei Shikkou Shirei Kudaru: Houiheki o Toppa Seyo!",
+        "rating": "9.5"
+    },
+    {
+        "episode": 475,
+        "title": "Saishuu Kyokumen Totsunyuu! Shirohige Kishikaisei no Itte",
+        "rating": "9.3"
+    },
+    {
+        "episode": 476,
+        "title": "Luffy Chikaratsuku! Oris Hiroba no Souryokusen!!",
+        "rating": "9.2"
+    },
+    {
+        "episode": 477,
+        "title": "Inochi o Kezuru Chikara: Tension Hormone Futatabi",
+        "rating": "9.1"
+    },
+    {
+        "episode": 478,
+        "title": "Yakusoku no Tame ni!! Gekitou! Luffy to Coby",
+        "rating": "9.4"
+    },
+    {
+        "episode": 479,
+        "title": "Shokeidai Mokuzen! Hirakareta Ace e no Michi!!",
+        "rating": "9.2"
+    },
+    {
+        "episode": 480,
+        "title": "Sorezore no Eranda Michi: Luffy vs Garp!",
+        "rating": "9.5"
+    },
+    {
+        "episode": 481,
+        "title": "Ace Kyuushutsu! Shirohige Saigo no Senchou Meirei!",
+        "rating": "9.6"
+    },
+    {
+        "episode": 482,
+        "title": "Hi o mo Yaki Tsukusu Chikara: Akainu Hijou no Tsuigeki",
+        "rating": "9.7"
+    },
+    {
+        "episode": 483,
+        "title": "Kotae o Sagashite: Hiken Ace Senjou ni Shisu",
+        "rating": "9.7"
+    },
+    {
+        "episode": 484,
+        "title": "Kaigun Honbu Houkai! Shirohige Kotobanaki Ikari!",
+        "rating": "9.7"
+    },
+    {
+        "episode": 485,
+        "title": "Kejime o Tsukeru: Shirohige vs Kurohige Kaizokudan",
+        "rating": "9.7"
+    },
+    {
+        "episode": 486,
+        "title": "Show no Kaimaku: Akasareta Kurohige no Takurami",
+        "rating": "9.4"
+    },
+    {
+        "episode": 487,
+        "title": "Akainu no Shuunen! Luffy o Osou Magma no Kobushi",
+        "rating": "9.2"
+    },
+    {
+        "episode": 488,
+        "title": "Hisshi no Sakebi: Unmei o Kaeru Yuuki Aru Suubyou",
+        "rating": "9.5"
+    },
+    {
+        "episode": 489,
+        "title": "Shanks Kenzan! Choujou Sensou Tsui ni Shuuketsu",
+        "rating": "9.5"
+    },
+    {
+        "episode": 490,
+        "title": "Gun'yuu Kakkyo Su! \"Atarashii Jidai\" no Hajimari!",
+        "rating": "8.5"
+    },
+    {
+        "episode": 491,
+        "title": "Nyougashima Jouriku: Luffy o Semeru Kakoku na Genjitsu",
+        "rating": "8.6"
+    },
+    {
+        "episode": 492,
+        "title": "Saikyou Tag! Funtou, Luffy to Toriko!",
+        "rating": "5.4"
+    },
+    {
+        "episode": 493,
+        "title": "Luffy to Ace: Kyoudai no Deai no Monogatari!",
+        "rating": "8.2"
+    },
+    {
+        "episode": 494,
+        "title": "Sabo Toujou! Gray Terminal no Shounen",
+        "rating": "8.1"
+    },
+    {
+        "episode": 495,
+        "title": "Ore wa Nigenai: Ace Kesshi no Kyuushutsu Sakusen",
+        "rating": "7.8"
+    },
+    {
+        "episode": 496,
+        "title": "Itsuka Umi e! Sannin no Akudou Chikai no Sakazuki!",
+        "rating": "8.1"
+    },
+    {
+        "episode": 497,
+        "title": "Dadan Ikka to no Wakare!? Kansei! Himitsu Kichi",
+        "rating": "7.8"
+    },
+    {
+        "episode": 498,
+        "title": "Luffy Deshiiri!? Kaizoku Ou to Tatakatta Otoko!",
+        "rating": "7.4"
+    },
+    {
+        "episode": 499,
+        "title": "Ootora to no Kessen! Senchou ni Naru no wa Dare Da!",
+        "rating": "7.4"
+    },
+    {
+        "episode": 500,
+        "title": "Ubawareta Jiyuu! Sankyoudai ni Semaru Kizoku no Wana",
+        "rating": "7.7"
+    },
+    {
+        "episode": 501,
+        "title": "Hanatareta Honoo: Gray Terminal no Kiki",
+        "rating": "7.9"
+    },
+    {
+        "episode": 502,
+        "title": "Jiyuu wa Doko ni Aru? Shounen no Kanashiki Funade",
+        "rating": "7.8"
+    },
+    {
+        "episode": 503,
+        "title": "Yoroshiku Tanomu! Kyoudai kara Todoita Tegami!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 504,
+        "title": "Yakusoku o Hatasu Tame: Sorezore no Tabidachi!",
+        "rating": "8.3"
+    },
+    {
+        "episode": 505,
+        "title": "Aitsura ni Aitee! Luffy Namida no Sakebi",
+        "rating": "9.2"
+    },
+    {
+        "episode": 506,
+        "title": "Mugiwara no Ichimi Gekishin! Motarasareta Kyouhou",
+        "rating": "7.9"
+    },
+    {
+        "episode": 507,
+        "title": "Meiou Rayleigh to no Saikai: Luffy Ketsudan no Toki",
+        "rating": "7.9"
+    },
+    {
+        "episode": 508,
+        "title": "Senchou no Moto e: Sorajima no Datsugoku to Fuyujima no Jiken",
+        "rating": "7.3"
+    },
+    {
+        "episode": 509,
+        "title": "Sesshoku! Daikengou Mihawk: Zoro Iji no Shitou",
+        "rating": "7.6"
+    },
+    {
+        "episode": 510,
+        "title": "Sanji no Junan: Oukoku e to Kikan Shita Joou!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 511,
+        "title": "Masaka no Saijouriku! Luffy Marineford e!",
+        "rating": "8.2"
+    },
+    {
+        "episode": 512,
+        "title": "Nakama ni Todoke: Kakemeguru Dai News!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 513,
+        "title": "Ugokidasu Kaizoku-tachi! Kyoutendouchi no Shinsekai",
+        "rating": "7.4"
+    },
+    {
+        "episode": 514,
+        "title": "Jigoku o Ikinuke: Sanji Otoko o Kaketa Shoubu",
+        "rating": "7.2"
+    },
+    {
+        "episode": 515,
+        "title": "Madamada Tsuyoku Naru! Zoro Senchou e no Chikai",
+        "rating": "7.8"
+    },
+    {
+        "episode": 516,
+        "title": "Luffy Shugyou Kaishi: 2-nengo ni Yakusoku no Basho de",
+        "rating": "9.1"
+    },
+    {
+        "episode": 517,
+        "title": "Shinshou Kaimaku: Saishuuketsu! Mugiwara no Ichimi",
+        "rating": "9.1"
+    },
+    {
+        "episode": 518,
+        "title": "Isshokusokuhatsu! Luffy Tai Nise Luffy",
+        "rating": "8.2"
+    },
+    {
+        "episode": 519,
+        "title": "Kaigun Shutsudou: Nerawareta Mugiwara no Ichimi",
+        "rating": "7.9"
+    },
+    {
+        "episode": 520,
+        "title": "Oomono Shuuketsu: Nise Mugiwara Ichimi no Kyoui",
+        "rating": "7.8"
+    },
+    {
+        "episode": 521,
+        "title": "Sentou Kaishi! Misero Shugyou no Seika!",
+        "rating": "9.2"
+    },
+    {
+        "episode": 522,
+        "title": "Zen'in Shuugou: Luffy Shinsekai e no Funade",
+        "rating": "8.6"
+    },
+    {
+        "episode": 523,
+        "title": "Kyougaku no Shinjitsu: Sunny-gou o Mamotta Otoko",
+        "rating": "7.9"
+    },
+    {
+        "episode": 524,
+        "title": "Kaichuu no Shitou: Arawareta Oounabara no Akuma",
+        "rating": "7.5"
+    },
+    {
+        "episode": 525,
+        "title": "Shinkai de Sounan: Hagureta Mugiwara no Ichimi",
+        "rating": "7.5"
+    },
+    {
+        "episode": 526,
+        "title": "Kaitei Kazan Funka! Nagasarete Gyojintou",
+        "rating": "7.5"
+    },
+    {
+        "episode": 527,
+        "title": "Gyojintou Jouriku: Uruwashiki Ningyo-tachi",
+        "rating": "7.6"
+    },
+    {
+        "episode": 528,
+        "title": "Koufun Bakuhatsu! Sanji Seimei no Kiki!",
+        "rating": "7.3"
+    },
+    {
+        "episode": 529,
+        "title": "Gyojintou Metsubou!? Sharley no Yogen",
+        "rating": "7.3"
+    },
+    {
+        "episode": 530,
+        "title": "Gyojintou no Ou: Kaishin Neptune!",
+        "rating": "7.3"
+    },
+    {
+        "episode": 531,
+        "title": "Ryuuguujou! Tasuketa Same ni Tsurerarete",
+        "rating": "7.1"
+    },
+    {
+        "episode": 532,
+        "title": "Yowamushi de Nakimushi! Koukakutou no Ningyo Hime",
+        "rating": "7.2"
+    },
+    {
+        "episode": 533,
+        "title": "Kinkyuu Jitai Hassei: Senkyo Sareta Ryuuguujou",
+        "rating": "7.3"
+    },
+    {
+        "episode": 534,
+        "title": "Ryuuguujou Gekishin! Shirahoshi Yuukai Jiken",
+        "rating": "7.5"
+    },
+    {
+        "episode": 535,
+        "title": "Hody Shuurai: Fukushuu Keikaku no Hajimari",
+        "rating": "7.3"
+    },
+    {
+        "episode": 536,
+        "title": "Ryuuguujou no Kessen! Zoro Tai Hody",
+        "rating": "7.7"
+    },
+    {
+        "episode": 537,
+        "title": "Shirahoshi o Mamore: Decken no Tsuigeki",
+        "rating": "7.7"
+    },
+    {
+        "episode": 538,
+        "title": "Ichimi Haiboku!? Hody Ryuuguujou Seiatsu",
+        "rating": "7.6"
+    },
+    {
+        "episode": 539,
+        "title": "Yomigaeru Innen! Nami to Gyojin Kaizokudan!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 540,
+        "title": "Dorei Kaihou no Eiyuu: Boukenka Tiger",
+        "rating": "7.6"
+    },
+    {
+        "episode": 541,
+        "title": "Kizaru Toujou! Tiger o Nerau Wana!",
+        "rating": "8.2"
+    },
+    {
+        "episode": 542,
+        "title": "Team Kessei! Chopper o Sukue",
+        "rating": "5.4"
+    },
+    {
+        "episode": 543,
+        "title": "Eiyuu no Saigo: Tiger Shougeki no Shinjitsu",
+        "rating": "8.3"
+    },
+    {
+        "episode": 544,
+        "title": "Kaizokudan Bunretsu: Jinbe Tai Arlong",
+        "rating": "7.5"
+    },
+    {
+        "episode": 545,
+        "title": "Yureru Gyojintou! Hyouchaku Shita Tenryuubito",
+        "rating": "7.3"
+    },
+    {
+        "episode": 546,
+        "title": "Totsuzen no Higeki! Mirai o Tozasu Kyoudan",
+        "rating": "8.0"
+    },
+    {
+        "episode": 547,
+        "title": "Futatabi Genzai e! Ugokidasu Hody",
+        "rating": "7.6"
+    },
+    {
+        "episode": 548,
+        "title": "Oukoku Gekishin: Neptune Shokei Shirei",
+        "rating": "7.5"
+    },
+    {
+        "episode": 549,
+        "title": "Shoujita Kiretsu! Luffy Tai Jinbe",
+        "rating": "7.5"
+    },
+    {
+        "episode": 550,
+        "title": "Hody no Ihen: Kyouyaku no Shin no Chikara!",
+        "rating": "7.0"
+    },
+    {
+        "episode": 551,
+        "title": "Kessen Hajimaru: Gyoncorde Hiroba!",
+        "rating": "7.0"
+    },
+    {
+        "episode": 552,
+        "title": "Shougeki no Kokuhaku: Otohime Ansatsu no Shinjitsu",
+        "rating": "7.2"
+    },
+    {
+        "episode": 553,
+        "title": "Shirahoshi no Namida! Luffy Tsui ni Toujou",
+        "rating": "8.2"
+    },
+    {
+        "episode": 554,
+        "title": "Dai Gekitotsu! Mugiwara Ichimi VS 10 Man no Teki",
+        "rating": "9.0"
+    },
+    {
+        "episode": 555,
+        "title": "Oowaza Sakuretsu! Zoro Sanji Shutsugeki!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 556,
+        "title": "Hatsu Hirou! Sunny Gou no Himitsu Heiki!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 557,
+        "title": "Iron Pirate! Franky Shougun Toujou",
+        "rating": "7.5"
+    },
+    {
+        "episode": 558,
+        "title": "Noah Sekkin! Gyojintou Kaimetsu no Kiki!",
+        "rating": "7.3"
+    },
+    {
+        "episode": 559,
+        "title": "Isoge Luffy! Shirahoshi Zettaizetsumei",
+        "rating": "7.1"
+    },
+    {
+        "episode": 560,
+        "title": "Gekitou Kaishi! Luffy Tai Hody!",
+        "rating": "7.3"
+    },
+    {
+        "episode": 561,
+        "title": "Dairansen! Ichimi Tai Shin Gyojin Kaizokudan!",
+        "rating": "7.3"
+    },
+    {
+        "episode": 562,
+        "title": "Luffy Haiboku!? Hody Fukushuu no Toki",
+        "rating": "7.0"
+    },
+    {
+        "episode": 563,
+        "title": "Shougeki no Jijitsu! Hody no Shoutai!",
+        "rating": "6.9"
+    },
+    {
+        "episode": 564,
+        "title": "Zero ni! Luffy e no Atsuki Negai!",
+        "rating": "7.2"
+    },
+    {
+        "episode": 565,
+        "title": "Luffy Konshin no Ichigeki! Red Hawk Sakuretsu",
+        "rating": "7.7"
+    },
+    {
+        "episode": 566,
+        "title": "Tsui ni Kecchaku! Hody Saishuu Kessen",
+        "rating": "7.6"
+    },
+    {
+        "episode": 567,
+        "title": "Tomare Noah! Kesshi no Elephant Gatling!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 568,
+        "title": "Mirai e! Taiyou e to Tsuzuku Michi!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 569,
+        "title": "Akasareta Himitsu: Kodai Heiki no Shinjitsu",
+        "rating": "7.4"
+    },
+    {
+        "episode": 570,
+        "title": "Ichimi Kyougaku! Aratanaru Kaigun Gensui!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 571,
+        "title": "Okashizuki! Yonkou Big Mom",
+        "rating": "8.0"
+    },
+    {
+        "episode": 572,
+        "title": "Zento Tanan: Shin Sekai ni Machiukeru Wana",
+        "rating": "7.6"
+    },
+    {
+        "episode": 573,
+        "title": "Tsui ni Shukkou! Sayonara Gyojin-tou",
+        "rating": "7.5"
+    },
+    {
+        "episode": 574,
+        "title": "Shin Sekai e! Saikyou no Umi o Mezashite",
+        "rating": "7.4"
+    },
+    {
+        "episode": 575,
+        "title": "Z no Yabou Hen: Chiisana Kyojin Lily!",
+        "rating": "6.8"
+    },
+    {
+        "episode": 576,
+        "title": "Z no Yabou Hen: Nazo no Saikyou Gundan Toujou!",
+        "rating": "6.8"
+    },
+    {
+        "episode": 577,
+        "title": "Z no Yabou Hen: Kesshi no Dai Dasshutsu Sakusen!",
+        "rating": "6.7"
+    },
+    {
+        "episode": 578,
+        "title": "Z no Yabou Hen: Luffy VS Shuzo!",
+        "rating": "6.6"
+    },
+    {
+        "episode": 579,
+        "title": "Jouriku! Moeru Shima Punk Hazard",
+        "rating": "7.5"
+    },
+    {
+        "episode": 580,
+        "title": "Shakunetsu no Tatakai! Luffy Tai Kyodai Ryuu!",
+        "rating": "7.4"
+    },
+    {
+        "episode": 581,
+        "title": "Ichimi Souzen! Shougeki no Kubi dake Samurai Toujou!",
+        "rating": "7.2"
+    },
+    {
+        "episode": 582,
+        "title": "Kyougaku! Tsui ni Akasareru Shima no Himitsu",
+        "rating": "7.3"
+    },
+    {
+        "episode": 583,
+        "title": "Kodomo-tachi o Sukue! Ichimi Sentou Kaishi",
+        "rating": "7.2"
+    },
+    {
+        "episode": 584,
+        "title": "Kenjutsu Shoubu: Brook Tai Nazo no Doutai Samurai",
+        "rating": "7.5"
+    },
+    {
+        "episode": 585,
+        "title": "Shichibukai! Trafalgar Law",
+        "rating": "7.8"
+    },
+    {
+        "episode": 586,
+        "title": "Dai Pinch: Luffy Gokkan no Mizuumi ni Shizumu",
+        "rating": "7.9"
+    },
+    {
+        "episode": 587,
+        "title": "Gekitotsu! Law VS Smoker Chuujou",
+        "rating": "8.3"
+    },
+    {
+        "episode": 588,
+        "title": "2 Nenburi no Saikai! Luffy to Law",
+        "rating": "7.8"
+    },
+    {
+        "episode": 589,
+        "title": "Sekai Saiaku Kyoufu no Kagakusha Caesar",
+        "rating": "7.3"
+    },
+    {
+        "episode": 590,
+        "title": "Jijou Saikyou Colabo VS Umi no Taishokukan",
+        "rating": "5.5"
+    },
+    {
+        "episode": 591,
+        "title": "Chopper Gekido Master Hidounaru Jikken",
+        "rating": "7.4"
+    },
+    {
+        "episode": 592,
+        "title": "Ichimi Massatsu! Densetsu no Koroshiya Raishuu!",
+        "rating": "7.1"
+    },
+    {
+        "episode": 593,
+        "title": "Nami o Sukue! Luffy Yukiyama no Tatakai",
+        "rating": "7.6"
+    },
+    {
+        "episode": 594,
+        "title": "Kessei! Luffy-Law Kaizoku Doumei!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 595,
+        "title": "Master o Toraero: Kaizoku Doumei Sakusen Kaishi!",
+        "rating": "7.4"
+    },
+    {
+        "episode": 596,
+        "title": "Zenmetsu no Kiki: Shi no Monster Hirai",
+        "rating": "7.3"
+    },
+    {
+        "episode": 597,
+        "title": "Dai-Gekisen: Caesar Shin no Nouryoku Hatsudou!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 598,
+        "title": "Honoo Kirisaku Samurai! Kitsunebi no Kin'emon!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 599,
+        "title": "Shougeki! Nazo no Otoko Vergo no Shoutai!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 600,
+        "title": "Kodomo-tachi o Mamore! Semaru Master no Ma no Te",
+        "rating": "7.2"
+    },
+    {
+        "episode": 601,
+        "title": "Shin Sekai Gekishin: Caesar Akumu no Jikken",
+        "rating": "7.2"
+    },
+    {
+        "episode": 602,
+        "title": "Shijou Saiaku no Satsuriku Heiki! Shinokuni",
+        "rating": "7.3"
+    },
+    {
+        "episode": 603,
+        "title": "Hangeki Kaishi! Luffy-Law Daidasshutsu",
+        "rating": "7.8"
+    },
+    {
+        "episode": 604,
+        "title": "Mezase R-tou! Kaizoku Doumei Kaishingeki!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 605,
+        "title": "Tashigi no Namida: G-5 Kesshi no Toppa Sakusen",
+        "rating": "7.4"
+    },
+    {
+        "episode": 606,
+        "title": "Uragiri no Chuujou! Kichiku no Vergo",
+        "rating": "7.5"
+    },
+    {
+        "episode": 607,
+        "title": "Hakunetsu no Gekisen: Luffy VS Caesar",
+        "rating": "8.0"
+    },
+    {
+        "episode": 608,
+        "title": "Yami no Kuromaku! Doflamingo Ugoku!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 609,
+        "title": "Luffy Toushi!? Kyoufu no Yukionna Monet!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 610,
+        "title": "Butsukaru Kobushi! Futari no Chuujou no Tatakai",
+        "rating": "7.4"
+    },
+    {
+        "episode": 611,
+        "title": "Chiisana Dragon! Momonosuke Arawaru",
+        "rating": "7.3"
+    },
+    {
+        "episode": 612,
+        "title": "Fubuki no Shitou: Mugiwara no Ichimi Tai Yukionna",
+        "rating": "7.5"
+    },
+    {
+        "episode": 613,
+        "title": "Ougi Sakuretsu! Zoro Saikyou no Ittou-ryuu!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 614,
+        "title": "Tomodachi o Mamoru! Mocha Inochi-gake no Tousou",
+        "rating": "8.0"
+    },
+    {
+        "episode": 615,
+        "title": "Chahige Hitsuu! Luffy Ikari no Ichigeki",
+        "rating": "7.9"
+    },
+    {
+        "episode": 616,
+        "title": "Shougeki no Kecchaku! Smoker Tai Vergo!",
+        "rating": "9.2"
+    },
+    {
+        "episode": 617,
+        "title": "Caesar Gekiha! Saikyou no Grizzly Magnum",
+        "rating": "8.2"
+    },
+    {
+        "episode": 618,
+        "title": "Shuurai! Dressrosa kara no Shikaku",
+        "rating": "7.6"
+    },
+    {
+        "episode": 619,
+        "title": "Ooabare! Muteki no Franky Shougun",
+        "rating": "7.8"
+    },
+    {
+        "episode": 620,
+        "title": "Zettai Zetsumei! Punk Hazard Dai-Bakuhatsu",
+        "rating": "7.9"
+    },
+    {
+        "episode": 621,
+        "title": "Caesar o Hokaku-seyo - General Canon Sakuretsu",
+        "rating": "7.9"
+    },
+    {
+        "episode": 622,
+        "title": "Kandou no Saikai! Momonosuke to Kin'emon",
+        "rating": "7.8"
+    },
+    {
+        "episode": 623,
+        "title": "Sekibetsu no Toki - Punk Hazard Shukkou!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 624,
+        "title": "G-5 Kaimetsu! Doflamingo Kyuushuu!",
+        "rating": "8.3"
+    },
+    {
+        "episode": 625,
+        "title": "Kinpaku! Aokiji tai Doflamingo",
+        "rating": "8.1"
+    },
+    {
+        "episode": 626,
+        "title": "Kieta Caesar! Kaizoku Doumei Shutsugeki",
+        "rating": "6.7"
+    },
+    {
+        "episode": 627,
+        "title": "Luffy Umi ni Shisu!? Kaizoku Doumei Houkai",
+        "rating": "6.7"
+    },
+    {
+        "episode": 628,
+        "title": "Daigyakuten! Sakuretsu Luffy Ikari no Tekken",
+        "rating": "6.6"
+    },
+    {
+        "episode": 629,
+        "title": "Gekishin! Shinsekai Ugokasu Dai News",
+        "rating": "8.1"
+    },
+    {
+        "episode": 630,
+        "title": "Bouken! Ai to Jounetsu no Kuni Dressrosa",
+        "rating": "7.8"
+    },
+    {
+        "episode": 631,
+        "title": "Nekkyou Uzumaku: Corrida Colosseum",
+        "rating": "8.0"
+    },
+    {
+        "episode": 632,
+        "title": "Kiken na Koi: Odoriko Violet",
+        "rating": "7.7"
+    },
+    {
+        "episode": 633,
+        "title": "Saikyou no Mumei Senshi! Lucy Toujou",
+        "rating": "7.7"
+    },
+    {
+        "episode": 634,
+        "title": "Kaizoku Kikoushi Cavendish",
+        "rating": "7.9"
+    },
+    {
+        "episode": 635,
+        "title": "Unmei no Saikai: Hyena no Bellamy",
+        "rating": "7.8"
+    },
+    {
+        "episode": 636,
+        "title": "Choushinsei! Hitokui no Bartolomeo",
+        "rating": "7.8"
+    },
+    {
+        "episode": 637,
+        "title": "Gun'yuu Kakkyo! Hakunetsu no B Block!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 638,
+        "title": "Ichigeki Hissatsu! Kyoui no King Punch",
+        "rating": "8.0"
+    },
+    {
+        "episode": 639,
+        "title": "Tougyo Shuurai! Shi no Tekkyou o Toppa Seyo",
+        "rating": "7.7"
+    },
+    {
+        "episode": 640,
+        "title": "Bouken! Yousei no Shima Green Bit",
+        "rating": "7.4"
+    },
+    {
+        "episode": 641,
+        "title": "Shirarezaru Sekai Tontatta Oukoku",
+        "rating": "7.5"
+    },
+    {
+        "episode": 642,
+        "title": "Seiki no Bouryaku: Doflamingo Ugoku",
+        "rating": "8.4"
+    },
+    {
+        "episode": 643,
+        "title": "Tenchi Yurugasu! Taishou Fujitora no Jitsuryoku",
+        "rating": "8.4"
+    },
+    {
+        "episode": 644,
+        "title": "Ikari no Ichigeki! Kyojin vs Lucy",
+        "rating": "7.9"
+    },
+    {
+        "episode": 645,
+        "title": "Hakai-hou Sakuretsu! Lucy Kikiippatsu",
+        "rating": "7.5"
+    },
+    {
+        "episode": 646,
+        "title": "Densetsu no Kaizoku - Don Chinjao!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 647,
+        "title": "Hikari to Kage - Dressrosa ni Hisomu Yami!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 648,
+        "title": "Shutsugeki - Densetsu no Hero Usoland",
+        "rating": "7.6"
+    },
+    {
+        "episode": 649,
+        "title": "Gekisen Kecchaku! Lucy VS Chinjao!",
+        "rating": "8.4"
+    },
+    {
+        "episode": 650,
+        "title": "Luffy to Shukumei no Ken Toushi Rebecca",
+        "rating": "7.9"
+    },
+    {
+        "episode": 651,
+        "title": "Mamorinuku! Rebecca to Omocha no Heitai",
+        "rating": "8.0"
+    },
+    {
+        "episode": 652,
+        "title": "Saigo no Chou Gekisen Ku - D Block Kaisen",
+        "rating": "7.6"
+    },
+    {
+        "episode": 653,
+        "title": "Kessen! Joura vs Mugiwara no Ichimi",
+        "rating": "7.4"
+    },
+    {
+        "episode": 654,
+        "title": "Yoshiken! Hakuba no Cavendish",
+        "rating": "7.9"
+    },
+    {
+        "episode": 655,
+        "title": "Dai Kessen! Sanji VS Doflamingo",
+        "rating": "8.4"
+    },
+    {
+        "episode": 656,
+        "title": "Rebecca no Shi no Ken! Haisui no Kenbu",
+        "rating": "7.7"
+    },
+    {
+        "episode": 657,
+        "title": "Saikyou no Senshi! Logan vs Rebecca",
+        "rating": "7.5"
+    },
+    {
+        "episode": 658,
+        "title": "Shougeki! Omocha no Heitai no Shoutai!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 659,
+        "title": "Senritsu no Kako! Dressrosa no Himitsu",
+        "rating": "8.2"
+    },
+    {
+        "episode": 660,
+        "title": "Akumu! Dressrosa Higeki no Ichiya",
+        "rating": "8.3"
+    },
+    {
+        "episode": 661,
+        "title": "Shichibukai Taiketsu Law VS Doflamingo",
+        "rating": "9.1"
+    },
+    {
+        "episode": 662,
+        "title": "Ryouyuu Aimamieru! Mugiwara to Ten Yasha",
+        "rating": "9.1"
+    },
+    {
+        "episode": 663,
+        "title": "Luffy Kyougaku: Ace no Ishi o Tsugu Otoko",
+        "rating": "9.4"
+    },
+    {
+        "episode": 664,
+        "title": "SOP Sakusen Kaishi: Usoland Totsugeki",
+        "rating": "7.6"
+    },
+    {
+        "episode": 665,
+        "title": "Atsuki Omoi - Rebecca vs. Suleiman",
+        "rating": "7.5"
+    },
+    {
+        "episode": 666,
+        "title": "Shousha Kettei!? D Block Shougeki no Ketsumatsu",
+        "rating": "7.7"
+    },
+    {
+        "episode": 667,
+        "title": "Taishou no Ketsudan - Fujitora vs. Doflamingo",
+        "rating": "7.9"
+    },
+    {
+        "episode": 668,
+        "title": "Kesshou Kaishi: Eiyuu Diamante Toujou",
+        "rating": "7.8"
+    },
+    {
+        "episode": 669,
+        "title": "Ugoku Shiro! Saikou Kanbu Pica Shutsugen",
+        "rating": "7.6"
+    },
+    {
+        "episode": 670,
+        "title": "Ryuu no Tsume Sakuretsu! Lucy Kyoui no Ichigeki!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 671,
+        "title": "Tatou Sugar: Kodomo no Heitai Totsugeki!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 672,
+        "title": "Saigo no Hikari: Warera ga Taichou no Himitsu!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 673,
+        "title": "Panku Ningen: Gladius Dai Bakuhatsu!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 674,
+        "title": "Usotsuki Usoland Tousouchuu!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 675,
+        "title": "Unmei no Deai: Kyros to Riku Ou",
+        "rating": "8.4"
+    },
+    {
+        "episode": 676,
+        "title": "Sakusen Shippai! Eiyuu Usoland Shisu!?",
+        "rating": "8.6"
+    },
+    {
+        "episode": 677,
+        "title": "Densetsu Fukkatsu! Kyros Konshin no Ichigeki",
+        "rating": "9.3"
+    },
+    {
+        "episode": 678,
+        "title": "Kaken Sakuretsu! Fukkatsu Meramera no Mi no Chikara",
+        "rating": "9.3"
+    },
+    {
+        "episode": 679,
+        "title": "Sassou Toujou: Kakumeigun Sanbou Souchou Sabo!",
+        "rating": "8.5"
+    },
+    {
+        "episode": 680,
+        "title": "Akuma no Wana: Dressrosa Senmetsu Sakusen",
+        "rating": "8.6"
+    },
+    {
+        "episode": 681,
+        "title": "Go-oku no Otoko: Nerawareta Usoland!",
+        "rating": "8.1"
+    },
+    {
+        "episode": 682,
+        "title": "Tekijin Toppa: Luffy Zoro Hangeki Kaishi",
+        "rating": "7.7"
+    },
+    {
+        "episode": 683,
+        "title": "Daichi Meidou: Hakai Kami Kyoudai Pica Kourin",
+        "rating": "8.0"
+    },
+    {
+        "episode": 684,
+        "title": "Daishuuketsu! Luffy to Kyouaku Senshi Gundan",
+        "rating": "7.8"
+    },
+    {
+        "episode": 685,
+        "title": "Kaishingeki! Luffy Gundan vs Pica!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 686,
+        "title": "Shougeki Kokuhaku! Law Atsuki Tamashii no Chikai!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 687,
+        "title": "Daigekitotsu! Sanbou Souchou Sabo vs Taishou Fujitora",
+        "rating": "8.6"
+    },
+    {
+        "episode": 688,
+        "title": "Zettaizetsumei: Wana ni Kakatta Luffy!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 689,
+        "title": "Daidasshutsu! Luffy Kishikaisei no Elephant Gun",
+        "rating": "7.8"
+    },
+    {
+        "episode": 690,
+        "title": "Kyoudousensen: Luffy Shouri e no Toppakou",
+        "rating": "7.5"
+    },
+    {
+        "episode": 691,
+        "title": "Futarime no Samurai: Yuudachi Kanjuurou Toujou",
+        "rating": "7.5"
+    },
+    {
+        "episode": 692,
+        "title": "Funtou to no Pica: Zoro Ichi Todome no Ichigeki",
+        "rating": "8.1"
+    },
+    {
+        "episode": 693,
+        "title": "Kobito no Hime: Toraware no Mansherry",
+        "rating": "7.3"
+    },
+    {
+        "episode": 694,
+        "title": "Fujimi! Kyoufu no Atamawari Ningyou Gundan",
+        "rating": "7.2"
+    },
+    {
+        "episode": 695,
+        "title": "Inochi Kakete! Luffy wa Shouri no Kirifuda",
+        "rating": "8.0"
+    },
+    {
+        "episode": 696,
+        "title": "Namida no Saikai: Rebecca to Kyros",
+        "rating": "8.4"
+    },
+    {
+        "episode": 697,
+        "title": "Ichigeki Hissatsu: Dressrosa o Sukuu Otoko",
+        "rating": "9.1"
+    },
+    {
+        "episode": 698,
+        "title": "Ikari Bakuhatsu: Luffy Law Saikyou no Hisaku",
+        "rating": "9.3"
+    },
+    {
+        "episode": 699,
+        "title": "Kedakaki Ichizoku! Doflamingo no Shoutai!",
+        "rating": "9.1"
+    },
+    {
+        "episode": 700,
+        "title": "Kyuukyoku no Chikara: Op-Op no Jitsu no Himitsu!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 701,
+        "title": "Kanashiki Kioku: Shiroi Machi no Shounen Law!",
+        "rating": "9.2"
+    },
+    {
+        "episode": 702,
+        "title": "Tenryuubito! Doffy no Souzetsu Naru Kako",
+        "rating": "9.2"
+    },
+    {
+        "episode": 703,
+        "title": "Kunan no Michi: Law to Corazon Inochi no Tabi",
+        "rating": "9.3"
+    },
+    {
+        "episode": 704,
+        "title": "Toki Sameru! Op-Op no Mi o Ubae!",
+        "rating": "9.2"
+    },
+    {
+        "episode": 705,
+        "title": "Kakugo no Toki: Corazon Wakare no Egao!",
+        "rating": "9.3"
+    },
+    {
+        "episode": 706,
+        "title": "Yuke Law: Yasashiki Otoko Saigo no Tatakai!",
+        "rating": "9.6"
+    },
+    {
+        "episode": 707,
+        "title": "Jiyuu e! Law Injection Shot Sakuretsu",
+        "rating": "8.3"
+    },
+    {
+        "episode": 708,
+        "title": "Atsuki Tatakai: Law vs Doflamingo",
+        "rating": "9.1"
+    },
+    {
+        "episode": 709,
+        "title": "Kanbu Kessen: Hokori Takaki Hajrudin",
+        "rating": "7.8"
+    },
+    {
+        "episode": 710,
+        "title": "Ai no Kessen: Shintouryou Sai tai Baby 5",
+        "rating": "8.1"
+    },
+    {
+        "episode": 711,
+        "title": "Otoko no Iji: Bellamy Saigo no Totsugeki!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 712,
+        "title": "Shippuudotou: Hakuba tai Dellinger",
+        "rating": "8.2"
+    },
+    {
+        "episode": 713,
+        "title": "Baribari: Homage Shinken Hatsudou!",
+        "rating": "8.6"
+    },
+    {
+        "episode": 714,
+        "title": "Iyashi no Hime: Mansherry o Sukue!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 715,
+        "title": "Otoko no Kettou: Senor Ai no Banka",
+        "rating": "9.1"
+    },
+    {
+        "episode": 716,
+        "title": "Shi no Hoshikuzu: Diamante Moukou no Arashi",
+        "rating": "8.8"
+    },
+    {
+        "episode": 717,
+        "title": "Trueno Bastardo: Kyros Ikari no Ichigeki",
+        "rating": "8.6"
+    },
+    {
+        "episode": 718,
+        "title": "Daichi Oudan: Kyozou Pica Kishuu Sakusen!",
+        "rating": "8.3"
+    },
+    {
+        "episode": 719,
+        "title": "Kuuchuu Kessen: Zoro Shin Hissastsu Ougi Sakuretsu!",
+        "rating": "9.4"
+    },
+    {
+        "episode": 720,
+        "title": "Abayo! Bellamy Wakare no Ichigeki!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 721,
+        "title": "Law Shisu: Luffy Fundo no Moukougeki!",
+        "rating": "9.1"
+    },
+    {
+        "episode": 722,
+        "title": "Shuunen no Yaiba: Gyakushuu no Gamma Knife!",
+        "rating": "9.2"
+    },
+    {
+        "episode": 723,
+        "title": "Haki Gekitotsu: Luffy tai Doflamingo",
+        "rating": "9.5"
+    },
+    {
+        "episode": 724,
+        "title": "Kougeki Funou: Trebol Shougeki no Himitsu",
+        "rating": "9.0"
+    },
+    {
+        "episode": 725,
+        "title": "Ikari Bakuhatsu: Ore ga Zenbu Hikiukeru",
+        "rating": "9.3"
+    },
+    {
+        "episode": 726,
+        "title": "Gear Fourth! Kyoui no Bounce Man!",
+        "rating": "9.6"
+    },
+    {
+        "episode": 727,
+        "title": "Daigyakushuu! Doflamingo no Kakusei!",
+        "rating": "8.8"
+    },
+    {
+        "episode": 728,
+        "title": "Luffy! Konshin no Leo Bazooka",
+        "rating": "9.2"
+    },
+    {
+        "episode": 729,
+        "title": "Kaen Ryuuou: Luffy no Inochi o Mamorinuke",
+        "rating": "8.7"
+    },
+    {
+        "episode": 730,
+        "title": "Kiseki no Namida: Mansherry no Tatakai!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 731,
+        "title": "Inochi no Kagiri: Shi no Tori Kago o Tomero!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 732,
+        "title": "Sei ka Shi ka: Unmei no Countdown",
+        "rating": "8.0"
+    },
+    {
+        "episode": 733,
+        "title": "Ten o Utsu: Luffy Ikari no King Kong Gun",
+        "rating": "9.4"
+    },
+    {
+        "episode": 734,
+        "title": "Jiyuu e! Yorokobi no Dressrosa!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 735,
+        "title": "Zendaimimon: Taishou Fujitora Shougeki no Ketsudan!",
+        "rating": "8.4"
+    },
+    {
+        "episode": 736,
+        "title": "Gekishin Hashiru: Ugokidasu Saiaku no Sedai!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 737,
+        "title": "Densetsu Tanjou: Kakumei Senshi Sabo no Bouken!",
+        "rating": "8.7"
+    },
+    {
+        "episode": 738,
+        "title": "Kyoudai no Kizuna: Luffy Sabo Saikai Hiwa",
+        "rating": "9.0"
+    },
+    {
+        "episode": 739,
+        "title": "Saikyou no Seibutsu: Yonkou - Hyakujuu no Kaidou",
+        "rating": "9.1"
+    },
+    {
+        "episode": 740,
+        "title": "Fujitora Ugoku: Mugiwara no Ichimi Kanzen Houimou",
+        "rating": "7.8"
+    },
+    {
+        "episode": 741,
+        "title": "Hijoujitai: Sarawareta Rebecca!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 742,
+        "title": "Oyako no Kizuna: Kyros to Rebecca!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 743,
+        "title": "Otoko no Iji: Luffy tai Fujitora Makkou Shoubu",
+        "rating": "9.1"
+    },
+    {
+        "episode": 744,
+        "title": "Nigeba Nashi: Taishou Fujitora Hijou no Tsuigeki!",
+        "rating": "9.2"
+    },
+    {
+        "episode": 745,
+        "title": "Kobun no Sakazuki: Kessei! Mugiwara Daisendan!",
+        "rating": "9.1"
+    },
+    {
+        "episode": 746,
+        "title": "Gun'yuukakyo: Arekuruu Shinsekai no Kaibutsu-tachi",
+        "rating": "8.7"
+    },
+    {
+        "episode": 747,
+        "title": "Gin no Yousai: Luffy to Barto Daibouken",
+        "rating": "6.4"
+    },
+    {
+        "episode": 748,
+        "title": "Chika Meikyuu: Luffy tai Torokko Ningen",
+        "rating": "6.2"
+    },
+    {
+        "episode": 749,
+        "title": "Kengi Hakunetsu: Law Zoro Tsui ni Kenzan!",
+        "rating": "6.3"
+    },
+    {
+        "episode": 750,
+        "title": "Zettaizetsumei: Luffy Kyokugen no Shakunetsu Kessen",
+        "rating": "6.3"
+    },
+    {
+        "episode": 751,
+        "title": "Bouken Kaimaku: Maboroshi no Shima \"Zou\" Touchaku!",
+        "rating": "7.2"
+    },
+    {
+        "episode": 752,
+        "title": "Shin Shichi Bukai: Densetsu Shirohige no Musuko Toujou",
+        "rating": "7.7"
+    },
+    {
+        "episode": 753,
+        "title": "Kesshi no Tozou: Kyozou no Se no Daibouken!",
+        "rating": "7.4"
+    },
+    {
+        "episode": 754,
+        "title": "Sentou Kaishi: Luffy vs Mink-zoku!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 755,
+        "title": "Garchuu! Mugiwara no Ichimi Saishuuketsu",
+        "rating": "7.5"
+    },
+    {
+        "episode": 756,
+        "title": "Hangeki Kaishi: Guruwara no Ichimi Daikatsuyaku!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 757,
+        "title": "Kyoui Shuurai: Hyakujuu Kaizokudan Jack!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 758,
+        "title": "Hiru no Ou: Inuarashi Koushaku Toujou!",
+        "rating": "7.4"
+    },
+    {
+        "episode": 759,
+        "title": "Yoru no Ou: Nekomamushi no Danna Kenzan",
+        "rating": "7.8"
+    },
+    {
+        "episode": 760,
+        "title": "Shuto Kaimetsu: Guruware no Ichimi Jouriku!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 761,
+        "title": "Limit Semaru: Mink-zoku to Ichimi no Kizuna!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 762,
+        "title": "Akudou Kikyou: Yonkou Big Mom no Shikaku",
+        "rating": "7.9"
+    },
+    {
+        "episode": 763,
+        "title": "Shissou no Shinjitsu: Sanji Kyougaku no Shoutaijou",
+        "rating": "8.4"
+    },
+    {
+        "episode": 764,
+        "title": "Yarou Domo e: Sanji Wakare no Okitegami",
+        "rating": "8.5"
+    },
+    {
+        "episode": 765,
+        "title": "Nekomamushi no Danna ni Ai ni Ikou",
+        "rating": "7.2"
+    },
+    {
+        "episode": 766,
+        "title": "Luffy Ketsudan: Sanji Dattai no Kiki!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 767,
+        "title": "Isshokusokuhatsu: Inu to Neko to Samurai!",
+        "rating": "9.1"
+    },
+    {
+        "episode": 768,
+        "title": "Sanninme! Ninja Kiri no Raizou Toujou",
+        "rating": "7.8"
+    },
+    {
+        "episode": 769,
+        "title": "Akai Ishi! \"One Piece\" e no Michishirube",
+        "rating": "8.7"
+    },
+    {
+        "episode": 770,
+        "title": "Wano Kuni no Himitsu: Kouzuki-ke to Rekishi no Ponegliffs",
+        "rating": "9.1"
+    },
+    {
+        "episode": 771,
+        "title": "Okoto no Chikai: Luffy to Kouzuki Momonosuke",
+        "rating": "8.1"
+    },
+    {
+        "episode": 772,
+        "title": "Densetsu no Koukai: Inu to Neko to Kaizokuou!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 773,
+        "title": "Akumu Futatabi: Fujimi no Jack Kyoushuu",
+        "rating": "7.9"
+    },
+    {
+        "episode": 774,
+        "title": "Zou Boueisen: Luffy to Zunesha!",
+        "rating": "8.1"
+    },
+    {
+        "episode": 775,
+        "title": "Zunesha o Sukue: Mugiwara Rescue Daisakusen!",
+        "rating": "7.2"
+    },
+    {
+        "episode": 776,
+        "title": "Wakare no Gezou: Sanji Dakkan no Funade!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 777,
+        "title": "Reverie e: Oujo Vivi to Shirahoshi-hime",
+        "rating": "7.0"
+    },
+    {
+        "episode": 778,
+        "title": "Reverie e: Rebecca to Sakura Oukoku",
+        "rating": "7.1"
+    },
+    {
+        "episode": 779,
+        "title": "Kaidou Futatabi: Kyoui Semaru Saiaku no Sedai!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 780,
+        "title": "Harapeko Sensen: Luffy to Kaigun Rookie!",
+        "rating": "6.9"
+    },
+    {
+        "episode": 781,
+        "title": "Shuunen no 3 Nin: Mugiwara Ichimi Dai Chase!",
+        "rating": "6.8"
+    },
+    {
+        "episode": 782,
+        "title": "Akuma no Kobushi: Kessen! Luffy tai Grant",
+        "rating": "7.0"
+    },
+    {
+        "episode": 783,
+        "title": "Sanji Kikyou: Big Mom no Nawabari e!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 784,
+        "title": "Rei to Yon: Souguu! Germa Double Six",
+        "rating": "7.6"
+    },
+    {
+        "episode": 785,
+        "title": "Moudoku no Kiki: Luffy to Reiju!",
+        "rating": "8.4"
+    },
+    {
+        "episode": 786,
+        "title": "Totto Land! Yonkou Big Mom Toujou",
+        "rating": "7.9"
+    },
+    {
+        "episode": 787,
+        "title": "Yonkou no Musume: Sanji no Fiancee Purin",
+        "rating": "7.7"
+    },
+    {
+        "episode": 788,
+        "title": "Dai Shingeki! Kui Wazurai no Mom",
+        "rating": "7.4"
+    },
+    {
+        "episode": 789,
+        "title": "Shuto Houkai!? Big Mom to Jinbee",
+        "rating": "7.8"
+    },
+    {
+        "episode": 790,
+        "title": "Yonkou No Shiro: Whole Cake Island Touchaku",
+        "rating": "7.7"
+    },
+    {
+        "episode": 791,
+        "title": "Okashi na Mori: Luffy tai Luffy!?",
+        "rating": "7.3"
+    },
+    {
+        "episode": 792,
+        "title": "Mom no Shikaku: Luffy to Yuuwaku no Mori!",
+        "rating": "7.4"
+    },
+    {
+        "episode": 793,
+        "title": "Kaiyuu Kokka: Germa no Ou Judge",
+        "rating": "8.1"
+    },
+    {
+        "episode": 794,
+        "title": "Oyako Taiketsu: Judge tai Sanji!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 795,
+        "title": "Kyoudai na Yabou: Big Mom to Caesar",
+        "rating": "7.5"
+    },
+    {
+        "episode": 796,
+        "title": "Tamashii no Kuni: Mom no Osorubeki Nouryoku!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 797,
+        "title": "Daikanbu! Sanshousei Cracker Toujou!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 798,
+        "title": "8 Oku no Teki: Luffy tai Senshu no Cracker",
+        "rating": "8.2"
+    },
+    {
+        "episode": 799,
+        "title": "Zenryoku Shoubu: Gear Fourth tai Bisbis no Chikara",
+        "rating": "8.5"
+    },
+    {
+        "episode": 800,
+        "title": "Ichi to Ni: Shuuketsu! Vinsmoke-ke",
+        "rating": "8.5"
+    },
+    {
+        "episode": 801,
+        "title": "Onjin no Inochi: Sanji to Owner Zeff",
+        "rating": "8.2"
+    },
+    {
+        "episode": 802,
+        "title": "Ikari no Sanji: Germa Double Six no Himitsu",
+        "rating": "8.8"
+    },
+    {
+        "episode": 803,
+        "title": "Suteta Kako: Vinsmoke Sanji",
+        "rating": "9.1"
+    },
+    {
+        "episode": 804,
+        "title": "East Blue e: Sanji Ketsui no Funade",
+        "rating": "9.4"
+    },
+    {
+        "episode": 805,
+        "title": "Genkai Shoubu: Luffy to Mugen Biscuit",
+        "rating": "8.9"
+    },
+    {
+        "episode": 806,
+        "title": "Manpuku no Chikara: Shin Gear Fourth Tan Man!",
+        "rating": "9.1"
+    },
+    {
+        "episode": 807,
+        "title": "Kanashiki Kettou: Luffy tai Sanji (Zenpen)",
+        "rating": "8.4"
+    },
+    {
+        "episode": 808,
+        "title": "Kanashiki Kettou: Luffy tai Sanji (Kouhen)",
+        "rating": "9.6"
+    },
+    {
+        "episode": 809,
+        "title": "Fukushuu no Arashi: Ikari no Gundan Shuurai!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 810,
+        "title": "Bouken no Owari: Sanji Ketsui no Propose",
+        "rating": "9.0"
+    },
+    {
+        "episode": 811,
+        "title": "Koko de Matsu: Luffy tai Ikari no Gundan",
+        "rating": "8.9"
+    },
+    {
+        "episode": 812,
+        "title": "Chateau Sennyuu: Ubae! Road Ponegliff",
+        "rating": "8.8"
+    },
+    {
+        "episode": 813,
+        "title": "Innnen no Taimen: Luffy to Big Mom!",
+        "rating": "8.5"
+    },
+    {
+        "episode": 814,
+        "title": "Tamashii no Sakebi: Brook & Pedro Dengeki Sakusen",
+        "rating": "8.5"
+    },
+    {
+        "episode": 815,
+        "title": "Sayonara: Purin Namida no Ketsui",
+        "rating": "8.9"
+    },
+    {
+        "episode": 816,
+        "title": "Hidari Me no Innen: Pedro tai Tamago-Danshaku",
+        "rating": "9.0"
+    },
+    {
+        "episode": 817,
+        "title": "Shikemoku: Sanji no Kekkon Zen'ya",
+        "rating": "9.5"
+    },
+    {
+        "episode": 818,
+        "title": "Fukutsu no Soul: Brook tai Big Mom",
+        "rating": "9.1"
+    },
+    {
+        "episode": 819,
+        "title": "Sora no Negai: Germa no Shippaisaku Sanji",
+        "rating": "9.1"
+    },
+    {
+        "episode": 820,
+        "title": "Sanji no Moto e: Luffy Gyakushuu no Dai Gekisou!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 821,
+        "title": "Chateau Douran: Luffy Yakusoku no Basho e",
+        "rating": "8.5"
+    },
+    {
+        "episode": 822,
+        "title": "Wakare no Ketsui: Sanji to Mugiwara Bentou",
+        "rating": "7.9"
+    },
+    {
+        "episode": 823,
+        "title": "Yonkou no Negaeri: Brook Kyuushutsu Daisakusen!",
+        "rating": "8.3"
+    },
+    {
+        "episode": 824,
+        "title": "The Rendezvous! Luffy, a One-on-One at His Limit!",
+        "rating": "8.8"
+    },
+    {
+        "episode": 825,
+        "title": "A Liar! Luffy and Sanji!!",
+        "rating": "9.5"
+    },
+    {
+        "episode": 826,
+        "title": "Sanji Comes Back! Crash! The Tea Party from Hell!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 827,
+        "title": "A Secret Meeting! Luffy vs. the Fire Tank Pirates!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 828,
+        "title": "The Deadly Pact! Luffy & Bege's Allied Forces!",
+        "rating": "8.4"
+    },
+    {
+        "episode": 829,
+        "title": "Luffy Engages in a Secret Maneuver! The Wedding Full of Conspiracies Starts Soon!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 830,
+        "title": "The Family Gets Together! The Hellish Tea Party Starts!",
+        "rating": "8.7"
+    },
+    {
+        "episode": 831,
+        "title": "The Broken Couple! Sanji and Pudding Enter!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 832,
+        "title": "A Deadly Kiss! The Mission to Assassinate the Emperor Kicks Off!",
+        "rating": "9.2"
+    },
+    {
+        "episode": 833,
+        "title": "Returning the Sake Cup! The Manly Jimbei Pays His Debt!",
+        "rating": "9.5"
+    },
+    {
+        "episode": 834,
+        "title": "The Mission Failed?! The Big Mom Pirates Strike Back!",
+        "rating": "9.1"
+    },
+    {
+        "episode": 835,
+        "title": "Run, Sanji! SOS! Germa 66!",
+        "rating": "9.1"
+    },
+    {
+        "episode": 836,
+        "title": "Mom's Secret! The Giant's Island Elbaph and a Little Monster!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 837,
+        "title": "The Birth of Mom! The Day That Carmel Vanished!",
+        "rating": "8.8"
+    },
+    {
+        "episode": 838,
+        "title": "The Launcher Blasts! The Moment of Big Mom's Assassination!",
+        "rating": "8.1"
+    },
+    {
+        "episode": 839,
+        "title": "The Evil Army! Transform! Germa 66!",
+        "rating": "8.4"
+    },
+    {
+        "episode": 840,
+        "title": "Cutting the Father-Son Relationship! Sanji and Judge!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 841,
+        "title": "Escape From the Tea Party! Luffy vs. Big Mom!",
+        "rating": "8.6"
+    },
+    {
+        "episode": 842,
+        "title": "The Execution Begins! Luffy's Allied Forces Are Annihilated?!\"",
+        "rating": "8.6"
+    },
+    {
+        "episode": 843,
+        "title": "The Chateau Collapses! The Straw Hat's Great Escape Begins!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 844,
+        "title": "The Spear of Elbaph! Onslaught! The Flying Big Mom!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 845,
+        "title": "Pudding's Determination! Ablaze! The Seducing Woods!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 846,
+        "title": "A Lightning Counterattack! Nami and Zeus the Thundercloud!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 847,
+        "title": "A Coincidental Reunion! Sanji and the Lovestruck Evil Pudding!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 848,
+        "title": "Save the Sunny! Fighting Bravely! Chopper and Brook!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 849,
+        "title": "Before the Dawn! Pedro, the Captain of the Guardians!",
+        "rating": "9.4"
+    },
+    {
+        "episode": 850,
+        "title": "I'll Be Back! Luffy, Deadly Departure!",
+        "rating": "9.3"
+    },
+    {
+        "episode": 851,
+        "title": "The Man with a Bounty of Billion! The Strongest Sweet General, Katakuri!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 852,
+        "title": "A Hard Battle Starts! Luffy vs. Katakuri!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 853,
+        "title": "The Green Room! An Invincible Helmsman, Jimbei!",
+        "rating": "8.5"
+    },
+    {
+        "episode": 854,
+        "title": "The Threat of the Mole! Luffy's Silent Fight!",
+        "rating": "8.8"
+    },
+    {
+        "episode": 855,
+        "title": "The End of the Deadly Battle?! Katakuri's Awakening in Anger!",
+        "rating": "8.6"
+    },
+    {
+        "episode": 856,
+        "title": "The Forbidden Secret! Katakuri's Merienda!",
+        "rating": "9.3"
+    },
+    {
+        "episode": 857,
+        "title": "Luffy Fights Back! The Invincible Katakuri's Weak Point!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 858,
+        "title": "Another Crisis! Gear Four vs. Unstoppable Donuts!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 859,
+        "title": "The Rebellious Daughter, Chiffon! Sanji's Big Plan for Transporting the Cake!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 860,
+        "title": "A Man's Way of Life! Bege and Luffy's Determination as Captains",
+        "rating": "7.9"
+    },
+    {
+        "episode": 861,
+        "title": "The Cake Sank?! Sanji and Bege's Getaway Battle!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 862,
+        "title": "Sulong! Carrot's Big Mystic Transformation!",
+        "rating": "9.1"
+    },
+    {
+        "episode": 863,
+        "title": "Break Through! The Straw Hat's Mighty Sea Battle!",
+        "rating": "8.1"
+    },
+    {
+        "episode": 864,
+        "title": "Finally Clash - Yonko VS Straw Hat Crew",
+        "rating": "9.0"
+    },
+    {
+        "episode": 865,
+        "title": "Dark King's Direct Precepts! The Battle Against Katakuri Turns Around!",
+        "rating": "8.6"
+    },
+    {
+        "episode": 866,
+        "title": "Finally He Returns! Sanji, the Man Who'll Stop the Emperor of the Sea!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 867,
+        "title": "Lurking in the Darkness! An Assassin Targeting Luffy!",
+        "rating": "8.5"
+    },
+    {
+        "episode": 868,
+        "title": "One Man's Determination! Katakuri's Deadly Big Fight!",
+        "rating": "9.4"
+    },
+    {
+        "episode": 869,
+        "title": "Wake Up! The Color of Observation Able to Top the Strongest!",
+        "rating": "9.2"
+    },
+    {
+        "episode": 870,
+        "title": "A Fist of Divine Speed! Another Gear Four Application Activated!",
+        "rating": "9.6"
+    },
+    {
+        "episode": 871,
+        "title": "Finally Concluded - An Outcome of the Fierce Battle with Katakuri",
+        "rating": "9.5"
+    },
+    {
+        "episode": 872,
+        "title": "A Desperate Situation! The Iron-Tight Entrapment of Luffy!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 873,
+        "title": "Pulling Back from the Brink! The Formidable Reinforcements - Germa!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 874,
+        "title": "The Last Hope! The Sun Pirates Emerge!",
+        "rating": "8.5"
+    },
+    {
+        "episode": 875,
+        "title": "A Fascinating Taste - Sanji's Cake of Happiness",
+        "rating": "8.6"
+    },
+    {
+        "episode": 876,
+        "title": "The Man of Humanity and Justice - Jinbe, a Desperate Massive Ocean Current",
+        "rating": "8.9"
+    },
+    {
+        "episode": 877,
+        "title": "Time for Farewell! Pudding's One Last Request!",
+        "rating": "9.4"
+    },
+    {
+        "episode": 878,
+        "title": "The World in Shock! The Fifth Emperor of the Sea Arrives!",
+        "rating": "8.6"
+    },
+    {
+        "episode": 879,
+        "title": "To the Levely! Gathering of the Straw Hat Allies!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 880,
+        "title": "Sabo Goes into Action! All the Captains of the Revolutionary Army Appear!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 881,
+        "title": "Going into Action! The Implacable New Admiral of the Fleet - Sakazuki",
+        "rating": "6.3"
+    },
+    {
+        "episode": 882,
+        "title": "The Paramount War! The Inherited Will of the King of the Pirates!",
+        "rating": "6.5"
+    },
+    {
+        "episode": 883,
+        "title": "One Step Ahead of the Dream - Shirahoshi's Path to the Sun!",
+        "rating": "6.6"
+    },
+    {
+        "episode": 884,
+        "title": "I Miss Him! Vivi and Rebecca's Sentiments!",
+        "rating": "6.6"
+    },
+    {
+        "episode": 885,
+        "title": "In the Dark Recesses of the Holyland! A Mysterious Giant Straw Hat!",
+        "rating": "7.3"
+    },
+    {
+        "episode": 886,
+        "title": "The Uproarious Holy Land - Princess Shirahoshi is being targeted!",
+        "rating": "7.3"
+    },
+    {
+        "episode": 887,
+        "title": "On the Verge - The Two Yonko Targeting Luffy",
+        "rating": "8.2"
+    },
+    {
+        "episode": 888,
+        "title": "Sabo Gets Angry - Tragedy of the Revolutionary Army Officer Kuma",
+        "rating": "7.7"
+    },
+    {
+        "episode": 889,
+        "title": "Finally, It Starts! The Conspiracy-filled Reverie!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 890,
+        "title": "Marco! The Keeper of Whitebeard's Last Memento!",
+        "rating": "7.3"
+    },
+    {
+        "episode": 891,
+        "title": "Climbing Up a Waterfall! A Great Journey Through the Land of Wano's Sea Zone!",
+        "rating": "8.6"
+    },
+    {
+        "episode": 892,
+        "title": "Wano Country! To the Land of Dancing Sakura and Samurai",
+        "rating": "9.4"
+    },
+    {
+        "episode": 893,
+        "title": "Otama Appears! Luffy vs. Kaido's Army!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 894,
+        "title": "He'll Come! The Legend of Ace in the Land of Wano!",
+        "rating": "9.1"
+    },
+    {
+        "episode": 895,
+        "title": "Side Story! The World's Greatest Bounty Hunter, Cidre!",
+        "rating": "5.9"
+    },
+    {
+        "episode": 896,
+        "title": "Side Story! Clash! Luffy vs. the King of Carbonation!",
+        "rating": "5.8"
+    },
+    {
+        "episode": 897,
+        "title": "Save Otama! Straw Hat, Bounding through the Wasteland!",
+        "rating": "8.8"
+    },
+    {
+        "episode": 898,
+        "title": "The Headliner! Hawkings the Magician Appears!",
+        "rating": "8.6"
+    },
+    {
+        "episode": 899,
+        "title": "Defeat is Inevitable! The Strawman's Fierce Attack!",
+        "rating": "9.1"
+    },
+    {
+        "episode": 900,
+        "title": "The Greatest Day of My Life! Otama and Her Sweet Red-bean Soup!",
+        "rating": "8.6"
+    },
+    {
+        "episode": 901,
+        "title": "Entering Enemy Territory! The Protagonists Spread into the Town of Bakura!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 902,
+        "title": "The Yokozuna Appears! The Invincible Urashima Goes After Okiku!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 903,
+        "title": "A Climactic Sumo Battle! Straw Hat vs. the Strongest Ever Yokozuna!",
+        "rating": "7.1"
+    },
+    {
+        "episode": 904,
+        "title": "Luffy Rages! Rescue Otama from Danger!",
+        "rating": "7.0"
+    },
+    {
+        "episode": 905,
+        "title": "Fighting for Otama! Fight against Holdem!",
+        "rating": "8.5"
+    },
+    {
+        "episode": 906,
+        "title": "Duel! The Magician and the Surgeon of Death!",
+        "rating": "8.6"
+    },
+    {
+        "episode": 907,
+        "title": "Romance Dawn",
+        "rating": "6.0"
+    },
+    {
+        "episode": 908,
+        "title": "The Coming of the Treasure Ship! Luffytaro Returns the Favor!",
+        "rating": "8.5"
+    },
+    {
+        "episode": 909,
+        "title": "Nazo no Bohyo - Oden Joseki de no Saikai!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 910,
+        "title": "A Legendary Samurai! The Man Who Roger Admired!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 911,
+        "title": "Bringing Down the Emperor of the Sea! A Secret Raid Operation Begins!",
+        "rating": "8.2"
+    },
+    {
+        "episode": 912,
+        "title": "The Strongest Man in the World! Shutenmaru, the Thieves Brigade Chief!",
+        "rating": "9.2"
+    },
+    {
+        "episode": 913,
+        "title": "Everyone is Annihilated! Kaido's Furious Blast Breath!",
+        "rating": "9.2"
+    },
+    {
+        "episode": 914,
+        "title": "Finally Clashing! The Ferocious Luffy vs. Kaido!",
+        "rating": "9.5"
+    },
+    {
+        "episode": 915,
+        "title": "Hakai-teki! Ichigeki Hissatsu no Raimei Hakke!",
+        "rating": "9.5"
+    },
+    {
+        "episode": 916,
+        "title": "Iki-jigoku! Rufi Kutsujoku no Dai Tankutsu-jo",
+        "rating": "8.9"
+    },
+    {
+        "episode": 917,
+        "title": "The Holyland in Tumult! Emperor of the Sea Blackbeard Cackles!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 918,
+        "title": "Ugokidasu - Dato Kaido Daikeikaku!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 919,
+        "title": "Rampage! The Prisoners - Luffy and Kid!",
+        "rating": "8.1"
+    },
+    {
+        "episode": 920,
+        "title": "Dai Hyoban! Sanji no Ohako Soba!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 921,
+        "title": "Goka Kenran - Wano Kuni Ichi no Bijo: Komurasaki",
+        "rating": "6.9"
+    },
+    {
+        "episode": 922,
+        "title": "A Tale of Chivalry! Zoro and Tonoyasu's Little Trip!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 923,
+        "title": "A State of Emergency! Big Mom Closes in!",
+        "rating": "8.1"
+    },
+    {
+        "episode": 924,
+        "title": "The Capital in an Uproar! Another Assassin Targets Sanji!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 925,
+        "title": "Dashing! The Righteous Soba Mask!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 926,
+        "title": "Zettai Zetsumei - Kyoi no Orochi Oniwabanshu",
+        "rating": "7.7"
+    },
+    {
+        "episode": 927,
+        "title": "Shura-jo! Osoreru Daija Shogun Orochi",
+        "rating": "7.5"
+    },
+    {
+        "episode": 928,
+        "title": "The Flower Falls! The Final Moment of the Most Beautiful Woman in the Land of Wano!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 929,
+        "title": "The Bond Between Prisoners! Luffy and Old Man Hyo!",
+        "rating": "7.4"
+    },
+    {
+        "episode": 930,
+        "title": "A Lead Performer! Queen the Plague Emerges!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 931,
+        "title": "Goes up. Luffy's Desperate Escape!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 932,
+        "title": "Dead or Alive! Queen's Sumo Inferno!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 933,
+        "title": "Gyukimaru! Zoro Fights a Duel on Bandit's Bridge",
+        "rating": "8.9"
+    },
+    {
+        "episode": 934,
+        "title": "A Big Turnover! The Three-Sword Style Overcomes Danger!",
+        "rating": "9.3"
+    },
+    {
+        "episode": 935,
+        "title": "Zoro, Stunned! The Shocking Identity of the Mysterious Woman!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 936,
+        "title": "Get the Hang of It! The Land of Wano's Haki - Ryuo!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 937,
+        "title": "Tonoyasu! Ebisu's most beloved!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 938,
+        "title": "Shaking the nation. The identity of Ushimitsu Kozo",
+        "rating": "7.6"
+    },
+    {
+        "episode": 939,
+        "title": "The Straw Hats are running! Save the captive Tonoyasu",
+        "rating": "8.8"
+    },
+    {
+        "episode": 940,
+        "title": "Zoro's Fury! The Truth About the Smile!",
+        "rating": "9.4"
+    },
+    {
+        "episode": 941,
+        "title": "Toko's Tears! Orochi's Pitiless Bullets!",
+        "rating": "9.1"
+    },
+    {
+        "episode": 942,
+        "title": "The Straw Hats Step In! An Uproarious Deadly Battle at the Execution Ground!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 943,
+        "title": "Luffy's Determination! Win Through the Sumo Inferno!",
+        "rating": "8.6"
+    },
+    {
+        "episode": 944,
+        "title": "The Coming of the Storm! Big Mom's Great Rampage!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 945,
+        "title": "A Grudge Over Oshiruko - Luffy Gets into a Desperate Situation",
+        "rating": "8.6"
+    },
+    {
+        "episode": 946,
+        "title": "Stop the Emperor of the Sea! Queen's Secret Plan!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 947,
+        "title": "The Ultimate Weapon! Excite Bullets Aimed at Luffy",
+        "rating": "7.6"
+    },
+    {
+        "episode": 948,
+        "title": "Start Fighting Back! Luffy and the Red Scabbard Samurai!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 949,
+        "title": "We're Here to Win! Luffy's Desperate Scream!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 950,
+        "title": "Warriors' Dream! Luffy's Conquer of Udon!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 951,
+        "title": "Orochi's Pursuers! Ninja Army Corps vs. Zoro",
+        "rating": "8.2"
+    },
+    {
+        "episode": 952,
+        "title": "Tension Rises in Onigashima! Two Emperors of the Sea Meet?!",
+        "rating": "8.7"
+    },
+    {
+        "episode": 953,
+        "title": "Hiyori's Confession! Reunion on Oihagi Bridge",
+        "rating": "8.6"
+    },
+    {
+        "episode": 954,
+        "title": "Its Name is Enma! Oden's Meito!",
+        "rating": "8.4"
+    },
+    {
+        "episode": 955,
+        "title": "A New Alliance?! Kaido's Army Gathers",
+        "rating": "8.1"
+    },
+    {
+        "episode": 956,
+        "title": "Ticking Down to the Great Battle! The Straw Hats Go into Combat Mode!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 957,
+        "title": "Big News! The Warlords Attack Incident",
+        "rating": "9.5"
+    },
+    {
+        "episode": 958,
+        "title": "The Legendary Battle! Garp and Roger",
+        "rating": "9.5"
+    },
+    {
+        "episode": 959,
+        "title": "The Promised Port - Opening of Third Act of Wano Country!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 960,
+        "title": "The Greatest Samurai of Wano Country! Kozuki Oden Appears!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 961,
+        "title": "The Crying Apprentice! Oden and Kin'emon!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 962,
+        "title": "Changing Destiny - The Whitebeard Pirates Cast Ashore!",
+        "rating": "9.2"
+    },
+    {
+        "episode": 963,
+        "title": "Oden's Determination! Whitebeard's Trials!",
+        "rating": "9.4"
+    },
+    {
+        "episode": 964,
+        "title": "Whitebeard's Little Brother! Oden's Great Adventure!",
+        "rating": "9.2"
+    },
+    {
+        "episode": 965,
+        "title": "Blades Crossed! Roger and Whitebeard!",
+        "rating": "9.5"
+    },
+    {
+        "episode": 966,
+        "title": "Roger's Wish! A New Journey!",
+        "rating": "9.5"
+    },
+    {
+        "episode": 967,
+        "title": "Devoting His Life! Roger's Adventure",
+        "rating": "9.4"
+    },
+    {
+        "episode": 968,
+        "title": "The Pirate King is Born: Arriving at the Last Island!",
+        "rating": "9.5"
+    },
+    {
+        "episode": 969,
+        "title": "To Wano Country! The Roger Pirates Disband",
+        "rating": "9.4"
+    },
+    {
+        "episode": 970,
+        "title": "Sad News: The Opening of the Great Pirate Era",
+        "rating": "9.1"
+    },
+    {
+        "episode": 971,
+        "title": "Raid! Oden and the Nine Red Scabbards",
+        "rating": "9.2"
+    },
+    {
+        "episode": 972,
+        "title": "The Moment of Conclusion! Oden vs. Kaido!",
+        "rating": "9.5"
+    },
+    {
+        "episode": 973,
+        "title": "Sentenced to Boil! Oden's Deadly Hour!",
+        "rating": "9.3"
+    },
+    {
+        "episode": 974,
+        "title": "Oden Wouldn't Be Oden If It Wasn't Boiled!",
+        "rating": "9.5"
+    },
+    {
+        "episode": 975,
+        "title": "The Castle on Fire! The Fate of the Kozuki Clan!",
+        "rating": "9.3"
+    },
+    {
+        "episode": 976,
+        "title": "Back to the Present Day! 20 Years Later!",
+        "rating": "9.2"
+    },
+    {
+        "episode": 977,
+        "title": "The Sea Is For Pirates! Raid! To Onigashima",
+        "rating": "9.4"
+    },
+    {
+        "episode": 978,
+        "title": "The Worst Generation Charges in! The Battle of the Stormy Sea",
+        "rating": "9.5"
+    },
+    {
+        "episode": 979,
+        "title": "Good Luck!? Leader Kin'emon's Plot",
+        "rating": "9.0"
+    },
+    {
+        "episode": 980,
+        "title": "A Tearful Promise! The Kidnapped Momonosuke!",
+        "rating": "9.1"
+    },
+    {
+        "episode": 981,
+        "title": "A New Member! Knight of the Sea Jinbe!",
+        "rating": "9.1"
+    },
+    {
+        "episode": 982,
+        "title": "Kaido's Trump Card - Introducing the Tobi Roppo",
+        "rating": "9.5"
+    },
+    {
+        "episode": 983,
+        "title": "The Samurai Warriors' Earnestness! The Straw Hats Land at Onigashima",
+        "rating": "8.4"
+    },
+    {
+        "episode": 984,
+        "title": "Luffy Goes Out of Control?! Sneaking into Kaido's Banquet",
+        "rating": "7.5"
+    },
+    {
+        "episode": 985,
+        "title": "Thinking of O-Tama - Luffy's Furious Strike",
+        "rating": "7.8"
+    },
+    {
+        "episode": 986,
+        "title": "Fighting Music! The Ability to Attack Luffy!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 987,
+        "title": "The Failing Dream? The Plot to Lure Sanji!",
+        "rating": "8.1"
+    },
+    {
+        "episode": 988,
+        "title": "Arrival of Reinforcements! Captain of the Whitebeard Pirates!",
+        "rating": "8.8"
+    },
+    {
+        "episode": 989,
+        "title": "Oath of Man! Fierce Battle of the Brachiotank",
+        "rating": "8.2"
+    },
+    {
+        "episode": 990,
+        "title": "Thunder Bagua! The Appearance of Kaido's Son",
+        "rating": "8.9"
+    },
+    {
+        "episode": 991,
+        "title": "Enemy or Ally? Luffy and Yamato!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 992,
+        "title": "Desire to be Oden! Yamato's Dream!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 993,
+        "title": "Explosive?! The Handcuffs that Shackle Yamato's Freedom!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 994,
+        "title": "The Scabbards Face-off - Kikunojo vs. Kanjuro",
+        "rating": "9.0"
+    },
+    {
+        "episode": 995,
+        "title": "Raid! Inheriting Oden's Will",
+        "rating": "9.5"
+    },
+    {
+        "episode": 996,
+        "title": "Onigashima in Tumult! Luffy's All-Out War Begins!",
+        "rating": "9.2"
+    },
+    {
+        "episode": 997,
+        "title": "The Battle Under the Moon! The Berserker, Sulong the Moon Lion!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 998,
+        "title": "Zeus' Treason?! The Cornered Nami!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 999,
+        "title": "I'll Protect You! Yamato Meets Momonosuke!",
+        "rating": "8.2"
+    },
+    {
+        "episode": 1000,
+        "title": "Overwhelming Strength! The Straw Hats Come Together!",
+        "rating": "9.4"
+    },
+    {
+        "episode": 1001,
+        "title": "A Risky Invitation! A Plot to Eliminate Queen!",
+        "rating": "8.9"
+    },
+    {
+        "episode": 1002,
+        "title": "A New Rivalry! Nami and Ulti!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 1003,
+        "title": "A Heroic Blade! Akazaya vs. Kaido, Again Once More!",
+        "rating": "8.2"
+    },
+    {
+        "episode": 1004,
+        "title": "An Inherited Technique! Unleashing Oden's Secret Swordplay!",
+        "rating": "8.7"
+    },
+    {
+        "episode": 1005,
+        "title": "The Power of Ice Oni! A New Version of the Plague Rounds!",
+        "rating": "6.6"
+    },
+    {
+        "episode": 1006,
+        "title": "I Won't Forgive Him! Chopper's Determination!",
+        "rating": "6.7"
+    },
+    {
+        "episode": 1007,
+        "title": "Zoro's Pursuit! Ice Oni Tag!",
+        "rating": "6.5"
+    },
+    {
+        "episode": 1008,
+        "title": "Nami Surrenders?! Ulti's Fierce Headbutt!",
+        "rating": "7.3"
+    },
+    {
+        "episode": 1009,
+        "title": "Sasaki's Onslaught! Armored Division vs. Yamato!",
+        "rating": "7.0"
+    },
+    {
+        "episode": 1010,
+        "title": "Eliminate the Ice Oni! Chopper's Fire Trick!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 1011,
+        "title": "It's Not Okay! The Spider Lures Sanji!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 1012,
+        "title": "A Turnaround Move! The Flames of Marco the Phoenix!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 1013,
+        "title": "Yamato's Past! The Man Who Came for an Emperor of the Sea!",
+        "rating": "8.8"
+    },
+    {
+        "episode": 1014,
+        "title": "Marco's Tears! The Bond of the Whitebeard Pirates!",
+        "rating": "8.3"
+    },
+    {
+        "episode": 1015,
+        "title": "Straw Hat Luffy! The Man Who Will Become the King of the Pirates!",
+        "rating": "9.7"
+    },
+    {
+        "episode": 1016,
+        "title": "The Battle of the Monsters! The Three Stubborn Captains!",
+        "rating": "9.2"
+    },
+    {
+        "episode": 1017,
+        "title": "Barrage of Powerful Techniques! The Fierce Attacks of the Worst Generation!",
+        "rating": "9.5"
+    },
+    {
+        "episode": 1018,
+        "title": "Kaido Laughs! The Emperors of the Sea vs. the New Generation!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 1019,
+        "title": "Otama's Secret Plan! Operation Kibi Dango!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 1020,
+        "title": "Sanji's Scream! An SOS Echoes Over the Island!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 1021,
+        "title": "Spank Strikes! Sanji's Woman-trouble!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 1022,
+        "title": "No Regrets! Luffy and Boss, a Master-Disciple Bond!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 1023,
+        "title": "All Set! Chopperphage Nebulizer!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 1024,
+        "title": "Oden Appears! The Confused Hearts of the Akazaya Members",
+        "rating": "7.7"
+    },
+    {
+        "episode": 1025,
+        "title": "The Worst Generation Gets Wiped Out?! The Emperors' Deadly Attack!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 1026,
+        "title": "The Supernovas Strike Back! The Mission to Tear Apart the Emperors!",
+        "rating": "9.5"
+    },
+    {
+        "episode": 1027,
+        "title": "Defend Luffy! Zoro and Law's Sword Technique!",
+        "rating": "9.5"
+    },
+    {
+        "episode": 1028,
+        "title": "Surpass the Emperor of the Sea! Luffy Strikes Back with an Iron Fist!",
+        "rating": "9.6"
+    },
+    {
+        "episode": 1029,
+        "title": "A Faint Memory! Luffy and Red-Haired's Daughter Uta!",
+        "rating": "7.0"
+    },
+    {
+        "episode": 1030,
+        "title": "The Oath of the New Era! Luffy and Uta!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 1031,
+        "title": "Nami's Scream - The Desperate Death Race!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 1032,
+        "title": "The Dawn of the Land of Wano - The All-Out Battle Heats Up!",
+        "rating": "7.6"
+    },
+    {
+        "episode": 1033,
+        "title": "The Conclusion! Luffy's Accelerating Fist of the Supreme King",
+        "rating": "9.5"
+    },
+    {
+        "episode": 1034,
+        "title": "Luffy Defeated! The Straw Hats in Jeopardy?!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 1035,
+        "title": "The Animal Kingdom Pirates Trample Down! The End of the Kozuki Clan!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 1036,
+        "title": "Fight Against the Dark Night - The Commander-in-Chief of Wano Country Sounds Off",
+        "rating": "9.0"
+    },
+    {
+        "episode": 1037,
+        "title": "Believe in Luffy! The Alliance's Counterattack Begins!",
+        "rating": "7.3"
+    },
+    {
+        "episode": 1038,
+        "title": "Nami's Lethal Attack! O-Tama's Desperate Challenge!",
+        "rating": "8.3"
+    },
+    {
+        "episode": 1039,
+        "title": "A Dramatic Increase of Allies! Straw Hats Fight Back!",
+        "rating": "7.7"
+    },
+    {
+        "episode": 1040,
+        "title": "A Helmsman's Pride - An Angry Jinbe!",
+        "rating": "8.4"
+    },
+    {
+        "episode": 1041,
+        "title": "Showdown Battles of the Monsters! Yamato and Franky",
+        "rating": "7.2"
+    },
+    {
+        "episode": 1042,
+        "title": "The Predator's Trap - Black Maria's Temptation",
+        "rating": "7.1"
+    },
+    {
+        "episode": 1043,
+        "title": "Slash the Nightmare - Brook Draws His Freezing Sword!",
+        "rating": "8.1"
+    },
+    {
+        "episode": 1044,
+        "title": "Clutch! A Demon Incarnate, Robin!",
+        "rating": "9.3"
+    },
+    {
+        "episode": 1045,
+        "title": "A Spell! Kid and Zoro Facing Threats!",
+        "rating": "9.1"
+    },
+    {
+        "episode": 1046,
+        "title": "Taking a Chance! The Two Arms Go into Battle!",
+        "rating": "9.3"
+    },
+    {
+        "episode": 1047,
+        "title": "Rise to Dawn! The Peach Colored Dragon Rages!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 1048,
+        "title": "For the Future! Yamato and the Great Swordsmen's Pledge!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 1049,
+        "title": "Luffy Soars! Revenge Against the King of the Beasts!",
+        "rating": "9.3"
+    },
+    {
+        "episode": 1050,
+        "title": "Two Dragons Face Off! Momonosuke's Determination!",
+        "rating": "8.2"
+    },
+    {
+        "episode": 1051,
+        "title": "A Legend All Over Again! Luffy's Fist Roars in the Sky",
+        "rating": "9.1"
+    },
+    {
+        "episode": 1052,
+        "title": "The Situation Has Grown Tense! The End of Onigashima!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 1053,
+        "title": "Sanji's Mutation - The Two Arms in Crisis!",
+        "rating": "7.9"
+    },
+    {
+        "episode": 1054,
+        "title": "Death to Your Partner! Killer's Deadly Gamble!",
+        "rating": "8.8"
+    },
+    {
+        "episode": 1055,
+        "title": "A Shadowy Figure Pulls the Strings! Onigashima in Flames",
+        "rating": "7.4"
+    },
+    {
+        "episode": 1056,
+        "title": "A Countercharge! Law and Kid's Return-Attack Combination",
+        "rating": "8.7"
+    },
+    {
+        "episode": 1057,
+        "title": "For Luffy - Sanji and Zoro's Oath",
+        "rating": "8.5"
+    },
+    {
+        "episode": 1058,
+        "title": "The Onslaught of Kazenbo: Orochi's Evil Clutches Close in",
+        "rating": "7.6"
+    },
+    {
+        "episode": 1059,
+        "title": "Zoro's Hardship - A Monster! King the Wildfire",
+        "rating": "8.3"
+    },
+    {
+        "episode": 1060,
+        "title": "Secrets of Enma! The Cursed Sword Entrusted to Zoro",
+        "rating": "9.1"
+    },
+    {
+        "episode": 1061,
+        "title": "The Strike of an Ifrit! Sanji vs. Queen",
+        "rating": "9.5"
+    },
+    {
+        "episode": 1062,
+        "title": "The Three-Sword Style of the Supreme King! Zoro vs. King",
+        "rating": "9.7"
+    },
+    {
+        "episode": 1063,
+        "title": "Luffy on the Move! The Turning Point of a New Era!",
+        "rating": "8.1"
+    },
+    {
+        "episode": 1064,
+        "title": "Shuron Hakke! A Lawless Dragon Closing in on Luffy",
+        "rating": "8.7"
+    },
+    {
+        "episode": 1065,
+        "title": "The Destruction of the Alliance?! Fire up, the Will of the New Generation!",
+        "rating": "8.3"
+    },
+    {
+        "episode": 1066,
+        "title": "The Top Billing is Coming! Deadly Attack of Shockwave and Magnetism",
+        "rating": "9.5"
+    },
+    {
+        "episode": 1067,
+        "title": "Towards A New Era! Conclusion! The Brats' Resolution",
+        "rating": "9.2"
+    },
+    {
+        "episode": 1068,
+        "title": "Moon Princess Echoes! The Final Phase of the Land of Wano",
+        "rating": "8.9"
+    },
+    {
+        "episode": 1069,
+        "title": "There is Only One Winner - Luffy vs. Kaido",
+        "rating": "9.2"
+    },
+    {
+        "episode": 1070,
+        "title": "Luffy is Defeated?! The Determination of Those Left Behind",
+        "rating": "9.2"
+    },
+    {
+        "episode": 1071,
+        "title": "Luffy's Peak: Attained! Gear Fifth",
+        "rating": "9.1"
+    },
+    {
+        "episode": 1072,
+        "title": "The Ridiculous Power! GEAR 5 in Full Play",
+        "rating": "9.3"
+    },
+    {
+        "episode": 1073,
+        "title": "No Way Out! A Hellish Scene on Onigasima",
+        "rating": "7.8"
+    },
+    {
+        "episode": 1074,
+        "title": "Believe in Momo - Luffy's Final Powerful Technique!",
+        "rating": "9.4"
+    },
+    {
+        "episode": 1075,
+        "title": "20 Years Worth of Prayers! Take Back Wano Country",
+        "rating": "9.0"
+    },
+    {
+        "episode": 1076,
+        "title": "The World That Luffy Wants",
+        "rating": "9.4"
+    },
+    {
+        "episode": 1077,
+        "title": "Closing the Curtain! Winner - Straw Hat Luffy!",
+        "rating": "8.5"
+    },
+    {
+        "episode": 1078,
+        "title": "The Shogun of the Land of Wano, Kozuki Momonosuke",
+        "rating": "8.7"
+    },
+    {
+        "episode": 1079,
+        "title": "The Morning Arrives! Luffy and Everyone's Relaxation!",
+        "rating": "8.3"
+    },
+    {
+        "episode": 1080,
+        "title": "The Festival Banquet! New Emperors of the Sea",
+        "rating": "8.8"
+    },
+    {
+        "episode": 1081,
+        "title": "The World Will Burn! The Onslaught of a Navy Admiral",
+        "rating": "8.9"
+    },
+    {
+        "episode": 1082,
+        "title": "The Coming of the New Era! The Red-Haired's Imperial Rage",
+        "rating": "8.3"
+    },
+    {
+        "episode": 1083,
+        "title": "The World That Moves On! A New Organization, Cross Guild",
+        "rating": "7.9"
+    },
+    {
+        "episode": 1084,
+        "title": "Time to Depart - The Land of Wano and the Straw Hats",
+        "rating": "7.9"
+    },
+    {
+        "episode": 1085,
+        "title": "The Last Curtain! Luffy and Momonosuke's Vow",
+        "rating": "8.5"
+    },
+    {
+        "episode": 1086,
+        "title": "A New Emperor! Buggy the Genius Jester!",
+        "rating": "9.1"
+    },
+    {
+        "episode": 1087,
+        "title": "The War on the Island of Women! A Case Involving Koby the Hero",
+        "rating": "9.3"
+    },
+    {
+        "episode": 1088,
+        "title": "Luffy's Dream",
+        "rating": "9.1"
+    },
+    {
+        "episode": 1089,
+        "title": "Entering a New Chapter! Luffy and Sabo's Paths!",
+        "rating": "9.6"
+    },
+    {
+        "episode": 1090,
+        "title": "A New Island! Future Island Egghead",
+        "rating": "8.4"
+    },
+    {
+        "episode": 1091,
+        "title": "Brimming with the Future! An Adventure on the Island of Science!",
+        "rating": "8.3"
+    },
+    {
+        "episode": 1092,
+        "title": "Bonney's Lamentation! Darkness Lurking on the Future Island",
+        "rating": "8.5"
+    },
+    {
+        "episode": 1093,
+        "title": "The Winner Takes All! Law vs. Blackbeard!",
+        "rating": "9.4"
+    },
+    {
+        "episode": 1094,
+        "title": "The Mystery Deepens! Egghead Labophase",
+        "rating": "8.0"
+    },
+    {
+        "episode": 1095,
+        "title": "The Brain of a Genius - Six Vegapunks!",
+        "rating": "8.0"
+    },
+    {
+        "episode": 1096,
+        "title": "A Forbidden Piece of History! A Theory Concerning a Kingdom",
+        "rating": "8.9"
+    },
+    {
+        "episode": 1097,
+        "title": "The Will of Ohara! The Inherited Research",
+        "rating": "8.7"
+    },
+    {
+        "episode": 1098,
+        "title": "The Eccentric Dream of a Genius!",
+        "rating": "8.5"
+    },
+    {
+        "episode": 1099,
+        "title": "Preparations for Interception! Rob Lucci Strikes",
+        "rating": "8.5"
+    },
+    {
+        "episode": 1100,
+        "title": "Powers on a Different Level! Luffy vs. Lucci!",
+        "rating": "9.6"
+    },
+    {
+        "episode": 1101,
+        "title": "The Strongest Form of Humanity! The Seraphim's Powers",
+        "rating": "9.5"
+    },
+    {
+        "episode": 1102,
+        "title": "Sinister Schemes! The Operation to Escape Egghead",
+        "rating": "8.1"
+    },
+    {
+        "episode": 1103,
+        "title": "Turn Back My Father! Bonney's Futile Wish!",
+        "rating": "8.5"
+    },
+    {
+        "episode": 1104,
+        "title": "A Desperate Situation! The Seraphim's All-out Attack!",
+        "rating": "8.8"
+    },
+    {
+        "episode": 1105,
+        "title": "A Beautiful Act of Treason! The Spy, Stussy",
+        "rating": "8.3"
+    },
+    {
+        "episode": 1106,
+        "title": "Trouble Occurs! Seek Dr. Vegapunk!",
+        "rating": "7.8"
+    },
+    {
+        "episode": 1107,
+        "title": "A Shudder! The Evil Hand Creeping Up on the Laboratory",
+        "rating": "7.4"
+    },
+    {
+        "episode": 1108,
+        "title": "Incomprehensible! The Seraphim's Rebellion!",
+        "rating": "7.5"
+    },
+    {
+        "episode": 1109,
+        "title": "A Tough Decision! An Unusual United Front!",
+        "rating": "9.2"
+    },
+    {
+        "episode": 1110,
+        "title": "Survive! Deadly Combat with the Strongest Form of Humanity!",
+        "rating": "8.1"
+    },
+    {
+        "episode": 1111,
+        "title": "The Second Ohara! The Mastermind's Ambition!",
+        "rating": "8.4"
+    },
+    {
+        "episode": 1112,
+        "title": "Clash! Shanks vs. Eustass Kid",
+        "rating": "9.7"
+    },
+    {
+        "episode": 1113,
+        "title": "Run, Koby! A Desperate Escape Strategy!",
+        "rating": "8.3"
+    },
+    {
+        "episode": 1114,
+        "title": "For the Beloved Pupil - The Fist of Vice Admiral Garp!",
+        "rating": "9.7"
+    },
+    {
+        "episode": 1115,
+        "title": "The Navy Surprised! The Navy Headquarters' Former Admiral, Kuzan",
+        "rating": "9.6"
+    },
+    {
+        "episode": 1116,
+        "title": "Let's Go Get It! Buggy's Big Declaration",
+        "rating": "8.2"
+    },
+    {
+        "episode": 1117,
+        "title": "Sabo Returns - The Shocking Truth to Be Told",
+        "rating": "8.1"
+    },
+    {
+        "episode": 1118,
+        "title": "The Holy Land in Tumult! Sai and Leo's Full-Power Blow!",
+        "rating": "9.0"
+    },
+    {
+        "episode": 1119,
+        "title": "The Entrusted Message! King Cobras Resolve!",
+        "rating": "9.4"
+    },
+    {
+        "episode": 1120,
+        "title": "The World Is Shaken! The Ruler's Judgment and the Five Elders' Actions!",
+        "rating": "8.6"
+    },
+    {
+        "episode": 1121,
+        "title": "Garp and Kuzan - A Master and a Pupil's Beliefs Clash",
+        "rating": "9.4"
+    },
+    {
+        "episode": 1122,
+        "title": "The Last Lesson! Impact Inherited",
+        "rating": "9.6"
+    },
+    {
+        "episode": 1123,
+        "title": "The World Shakes! The Straw Hats' Hostage Situation",
+        "rating": "9.0"
+    },
+    {
+        "episode": 1124,
+        "title": "Completely Surrounded! The Operation to Escape Egghead",
+        "rating": "8.7"
+    },
+    {
+        "episode": 1125,
+        "title": "A Clash of Two Men's Determination! Kizaru and Sentomaru",
+        "rating": "9.4"
+    }
+]
